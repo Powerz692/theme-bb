@@ -18,9 +18,10 @@
     },
     "contact": {
       "type": "contact",
+      "disabled": true,
       "settings": {
         "full_width": true,
-        "subheading": "Nous contacter",
+        "subheading": "",
         "title": "",
         "content": "<p>Vous pouvez nous contacter par email à l'adresse<strong> contact@pureliss.fr</strong> ou <strong>via le formulaire</strong> ci-dessous</p>",
         "text_position": "start",
@@ -35,10 +36,31 @@
         "button_background": "",
         "button_text_color": ""
       }
+    },
+    "17385188173445870c": {
+      "type": "apps",
+      "blocks": {
+        "parcel_panel_app_kNB9qM": {
+          "type": "shopify://apps/parcel-panel/blocks/app/fc785c3f-90e0-4c98-a20c-7cde9ba5e4b5",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "parcel_panel_app_kNB9qM"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
     "main",
-    "contact"
+    "contact",
+    "17385188173445870c"
   ]
 }
