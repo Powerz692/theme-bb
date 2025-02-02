@@ -477,9 +477,38 @@
         "subheading": "",
         "title": "",
         "content": "",
-        "background": "#00b67a",
+        "background": "#b6c9a5",
         "background_gradient": "",
         "text_color": ""
+      }
+    },
+    "press_JEKmUH": {
+      "type": "press",
+      "blocks": {
+        "quote_R6FT3G": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "Valentine.C cliente vérifiée",
+            "content": "“Peau douce, zéro irritation, confiance retrouvée !”",
+            "show_rating": true,
+            "rating": 5
+          }
+        }
+      },
+      "block_order": [
+        "quote_R6FT3G"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
       }
     },
     "featured-product": {
@@ -928,6 +957,7 @@
     "video_9CKhXR",
     "trust_pilot_reviews_AxNB3A",
     "multi_column_BKPLPt",
+    "press_JEKmUH",
     "featured-product",
     "tabs_Waa9zt",
     "multi_column_wTJTNc",
