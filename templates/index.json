@@ -91,7 +91,7 @@
       "settings": {
         "full_width": true,
         "stack_mobile": true,
-        "title": "Vu sur:",
+        "title": "\"Le must-have beauté pour une épilation douce et efficace.\"",
         "content": "",
         "text_alignment": "center",
         "items_per_row": 5,
@@ -319,7 +319,7 @@
         "stars_bg_color": "#00b67a",
         "stars_color": "#ffffff",
         "text_color": "#000000",
-        "background_color": "#f0f0f0",
+        "background_color": "#ffffff",
         "background_gradient": "",
         "border_color": "#000000",
         "margin_top": 16,
@@ -608,15 +608,16 @@
           "settings": {
             "show_payment_button": false,
             "show_gift_card_recipient": true,
-            "atc_button_background": "#f0c417",
-            "atc_button_text_color": "#1a1a1a",
-            "payment_button_background": "#f0c417",
+            "atc_button_background": "#ff57e5",
+            "atc_button_text_color": "#ffffff",
+            "payment_button_background": "#ff57e5",
             "payment_button_text_color": ""
           }
         },
         "image_NnVtjL": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Sans_armatures_Confort_absolu_sans_compression_8c0d273f-e1bf-4306-80ba-242237d9ee35.png",
             "alignment": "center",
             "max_width": 500
           }
@@ -651,7 +652,7 @@
         "enable_video_looping": true,
         "enable_image_zoom": false,
         "max_image_zoom_level": 3,
-        "background": "#f0f0f0",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
