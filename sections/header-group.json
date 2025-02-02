@@ -48,7 +48,7 @@
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#2e4147",
+        "background": "#f8e1e7",
         "background_gradient": "",
         "text_color": "#ffffff"
       }
@@ -58,7 +58,7 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/SOLECONNECT_5.png",
+        "logo": "shopify://shop_images/SOLECONNECT_6.png",
         "logo_max_width": 120,
         "logo_mobile_max_width": 120,
         "menu": "main-menu",
