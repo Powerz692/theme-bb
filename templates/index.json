@@ -136,8 +136,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/En-tete_3.png",
-        "mobile_image": "shopify://shop_images/En-tete_3.png",
+        "image": "shopify://shop_images/1_eededf3e-f392-4d13-8907-1e996f88b648.png",
+        "mobile_image": "shopify://shop_images/1_eededf3e-f392-4d13-8907-1e996f88b648.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -598,7 +598,7 @@
         "image_c7QWtP": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/En-tete_2.png",
+            "image": "shopify://shop_images/2_26928062-de25-4154-8c12-518d345e634a.png",
             "alignment": "start",
             "max_width": 500
           }
