@@ -14,6 +14,7 @@
       "blocks": {
         "1664424230c4756b0e-1": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "text": "Douceur longue durée, sans poils ni irritations !",
             "heading_tag": "h1"
@@ -28,13 +29,13 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Des_nouvelles_tendances_beautes_2025_630733a1-a2db-4359-973f-0f3ae5a1261d.png",
-        "mobile_image": "shopify://shop_images/Des_nouvelles_tendances_beautes_2025_1300_x_1500_px_4c99842e-149c-4b19-9cfb-e2b07a938e60.png",
+        "image": "shopify://shop_images/Des_nouvelles_tendances_beautes_2025_d69c4e18-3ba5-4346-a1ed-2cf0cfc285b0.png",
+        "mobile_image": "shopify://shop_images/Des_nouvelles_tendances_beautes_2025_1300_x_1500_px_cf6875fa-3e66-443f-87b1-d4ec0e616287.png",
         "mobile_text_position": "place-self-end-center text-center",
         "desktop_text_position": "sm:place-self-end-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 0
       }
     },
     "logo_list_4BjWGF": {
@@ -136,8 +137,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/1_eededf3e-f392-4d13-8907-1e996f88b648.png",
-        "mobile_image": "shopify://shop_images/1_eededf3e-f392-4d13-8907-1e996f88b648.png",
+        "image": "shopify://shop_images/1_b1fdc683-4b07-4dbe-b7ad-c6300244c402.png",
+        "mobile_image": "shopify://shop_images/1_b1fdc683-4b07-4dbe-b7ad-c6300244c402.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -337,19 +338,6 @@
     "multi_column_BKPLPt": {
       "type": "multi-column",
       "blocks": {
-        "item_7BdeiK": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/1.png",
-            "column_size": "3",
-            "title": "Ibtissam",
-            "heading_tag": "h4",
-            "content": "<p><em>\"</em>Cet épilateur est une révolution ! Ma peau reste douce et soyeuse pendant des semaines, sans irritation. Un vrai bonheur !<em>\"</em></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_JJLm4U": {
           "type": "item",
           "settings": {
@@ -415,6 +403,19 @@
             "link_style": "link"
           }
         },
+        "item_7BdeiK": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/1.png",
+            "column_size": "3",
+            "title": "Ibtissam",
+            "heading_tag": "h4",
+            "content": "<p><em>\"</em>Cet épilateur est une révolution ! Ma peau reste douce et soyeuse pendant des semaines, sans irritation. Un vrai bonheur !<em>\"</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_EwNkYx": {
           "type": "item",
           "settings": {
@@ -456,12 +457,12 @@
         }
       },
       "block_order": [
-        "item_7BdeiK",
         "item_JJLm4U",
         "item_GECyWQ",
         "item_MwJML3",
         "item_p6MkDp",
         "item_4yzaE8",
+        "item_7BdeiK",
         "item_EwNkYx",
         "item_yViHK3",
         "item_JUW7xR"
@@ -598,7 +599,7 @@
         "image_c7QWtP": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/En-tete_987b670c-6f58-42d3-b5f7-c0fa9c43205a.png",
+            "image": "shopify://shop_images/2_1b1a4c6b-6bdb-4d96-aba5-37a353ad035a.png",
             "alignment": "start",
             "max_width": 500
           }
@@ -673,16 +674,16 @@
         "tab_qpeWfc": {
           "type": "tab",
           "settings": {
-            "title": "Autonomie et performance",
-            "content": "<p><strong>Performance et autonomie optimales !</strong></p><p>✔ <strong>60 minutes d’autonomie</strong> 🔋 – Profitez d’une séance d’épilation complète sans interruption.<br/>✔ <strong>Recharge rapide en 2 heures</strong> ⚡ – Pratique et efficace, toujours prêt à l’emploi.</p><p>Un épilateur conçu pour s’adapter à votre rythme et vous offrir une peau douce sans contrainte ! ✨</p>",
+            "title": "Technologie Pure Glade",
+            "content": "<p>Découvrez <strong>Pure Glade™</strong>, une technologie brevetée qui transforme l’expérience de l’épilation. Conçue pour offrir <strong>une performance inégalée</strong>, elle assure une <strong>épilation ultra-efficace</strong>, tout en respectant les peaux les plus sensibles.</p><p>✅ <strong>Arrachage des poils à la racine</strong> pour une douceur longue durée<br/>✅ <strong>Jusqu'à 10X plus performant</strong> que les méthodes classiques<br/>✅ <strong>Convient à tous les types de peau</strong>, même les plus délicates<br/>✅ <strong>Réduction de la repousse</strong> pour une peau nette jusqu'à <strong>4 semaines</strong><br/>✅ <strong>Technologie approuvée dermatologiquement</strong> pour un confort absolu</p><p>Grâce à <strong>Pure Glade™</strong>, dites adieu aux irritations et aux poils incarnés. Profitez d’une peau <strong>lisse, douce et éclatante</strong> en toute simplicité. </p><p><strong>Passez à l’épilation nouvelle génération avec Pure Glade™ !</strong> </p>",
             "page": ""
           }
         },
         "tab_GUd9zE": {
           "type": "tab",
           "settings": {
-            "title": "Design et matériaux",
-            "content": "<p>📏 <strong>Design compact et matériaux de qualité !</strong></p><p>✔ <strong>Dimensions</strong> : 2,55 x 2,55 x 13,9 cm – Léger et facile à transporter.<br/>✔ <strong>Poids</strong> : Seulement <strong>66 g</strong> – Idéal pour une prise en main confortable.<br/>✔ <strong>Matériaux</strong> : Conçu en <strong>plastique et acier inoxydable</strong> pour une durabilité optimale.<br/>✔ <strong>Tête lavable à l’eau</strong> 💦 – Hygiène assurée pour une utilisation toujours propre et efficace.</p><p>Un épilateur pratique, élégant et performant, parfait pour un usage quotidien ! ✨</p>",
+            "title": "Design et autonomie",
+            "content": "<p>📏 <strong>Design compact et matériaux de qualité !</strong></p><p>✔ <strong>Dimensions</strong> : 2,55 x 2,55 x 13,9 cm – Léger et facile à transporter.<br/>✔ <strong>Poids</strong> : Seulement <strong>66 g</strong> – Idéal pour une prise en main confortable.<br/>✔ <strong>Matériaux</strong> : Conçu en <strong>plastique et acier inoxydable</strong> pour une durabilité optimale.<br/>✔ <strong>Tête lavable à l’eau</strong> 💦 – Hygiène assurée pour une utilisation toujours propre et efficace.</p><p>Un épilateur pratique, élégant et performant, parfait pour un usage quotidien ! ✨</p><p></p><p><strong>Performance et autonomie optimales !</strong></p><p>✔ <strong>60 minutes d’autonomie</strong> 🔋 – Profitez d’une séance d’épilation complète sans interruption.<br/>✔ <strong>Recharge rapide en 2 heures</strong> ⚡ – Pratique et efficace, toujours prêt à l’emploi.</p><p>Un épilateur conçu pour s’adapter à votre rythme et vous offrir une peau douce sans contrainte ! ✨</p>",
             "page": ""
           }
         },
