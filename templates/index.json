@@ -14,7 +14,6 @@
       "blocks": {
         "1664424230c4756b0e-1": {
           "type": "heading",
-          "disabled": true,
           "settings": {
             "text": "Douceur longue durée, sans poils ni irritations !",
             "heading_tag": "h1"
@@ -29,13 +28,13 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Des_nouvelles_tendances_beautes_2025_2.png",
-        "mobile_image": "shopify://shop_images/Des_nouvelles_tendances_beautes_2025_1300_x_1500_px_3.png",
+        "image": "shopify://shop_images/Des_nouvelles_tendances_beautes_2025_3.png",
+        "mobile_image": "shopify://shop_images/Des_nouvelles_tendances_beautes_2025_1300_x_1500_px_4.png",
         "mobile_text_position": "place-self-end-center text-center",
         "desktop_text_position": "sm:place-self-end-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 0
+        "overlay_opacity": 24
       }
     },
     "logo_list_4BjWGF": {
@@ -158,7 +157,7 @@
         "heading_gcwVkK": {
           "type": "heading",
           "settings": {
-            "text": "Épilation Pure Glade : innovation, douceur et zéro irritation",
+            "text": "Épilation Pure Glide : innovation, douceur et zéro irritation",
             "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
@@ -596,14 +595,6 @@
           "type": "quantity_selector",
           "settings": {}
         },
-        "image_c7QWtP": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/En-tete_-_2.png",
-            "alignment": "start",
-            "max_width": 380
-          }
-        },
         "buy-buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -638,7 +629,6 @@
         "description",
         "variant-picker",
         "quantity-selector",
-        "image_c7QWtP",
         "buy-buttons",
         "image_NnVtjL"
       ],
@@ -674,8 +664,8 @@
         "tab_qpeWfc": {
           "type": "tab",
           "settings": {
-            "title": "Technologie Pure Glade",
-            "content": "<p>Découvrez <strong>Pure Glade™</strong>, une technologie brevetée qui transforme l’expérience de l’épilation. Conçue pour offrir <strong>une performance inégalée</strong>, elle assure une <strong>épilation ultra-efficace</strong>, tout en respectant les peaux les plus sensibles.</p><p>✅ <strong>Arrachage des poils à la racine</strong> pour une douceur longue durée<br/>✅ <strong>Jusqu'à 10X plus performant</strong> que les méthodes classiques<br/>✅ <strong>Convient à tous les types de peau</strong>, même les plus délicates<br/>✅ <strong>Réduction de la repousse</strong> pour une peau nette jusqu'à <strong>4 semaines</strong><br/>✅ <strong>Technologie approuvée dermatologiquement</strong> pour un confort absolu</p><p>Grâce à <strong>Pure Glade™</strong>, dites adieu aux irritations et aux poils incarnés. Profitez d’une peau <strong>lisse, douce et éclatante</strong> en toute simplicité. </p><p><strong>Passez à l’épilation nouvelle génération avec Pure Glade™ !</strong> </p>",
+            "title": "Technologie Pure Glide",
+            "content": "<p>Découvrez <strong>Pure GlIde™</strong>, une technologie brevetée qui transforme l’expérience de l’épilation. Conçue pour offrir <strong>une performance inégalée</strong>, elle assure une <strong>épilation ultra-efficace</strong>, tout en respectant les peaux les plus sensibles.</p><p>✅ <strong>Arrachage des poils à la racine</strong> pour une douceur longue durée<br/>✅ <strong>Jusqu'à 10X plus performant</strong> que les méthodes classiques<br/>✅ <strong>Convient à tous les types de peau</strong>, même les plus délicates<br/>✅ <strong>Réduction de la repousse</strong> pour une peau nette jusqu'à <strong>4 semaines</strong><br/>✅ <strong>Technologie approuvée dermatologiquement</strong> pour un confort absolu</p><p>Grâce à <strong>Pure Glide™</strong>, dites adieu aux irritations et aux poils incarnés. Profitez d’une peau <strong>lisse, douce et éclatante</strong> en toute simplicité. </p><p><strong>Passez à l’épilation nouvelle génération avec Pure Glide™ !</strong> </p>",
             "page": ""
           }
         },
