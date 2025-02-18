@@ -602,9 +602,9 @@
           "settings": {
             "show_payment_button": false,
             "show_gift_card_recipient": true,
-            "atc_button_background": "#ff00de",
+            "atc_button_background": "#d9cde5",
             "atc_button_text_color": "#ffffff",
-            "payment_button_background": "#ff00de",
+            "payment_button_background": "#d9cde5",
             "payment_button_text_color": ""
           }
         },
