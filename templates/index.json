@@ -607,14 +607,6 @@
             "payment_button_background": "#803cee",
             "payment_button_text_color": ""
           }
-        },
-        "image_NnVtjL": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Sans_armatures_Confort_absolu_sans_compression_8c0d273f-e1bf-4306-80ba-242237d9ee35.png",
-            "alignment": "center",
-            "max_width": 500
-          }
         }
       },
       "block_order": [
@@ -631,8 +623,7 @@
         "description",
         "variant-picker",
         "quantity-selector",
-        "buy-buttons",
-        "image_NnVtjL"
+        "buy-buttons"
       ],
       "settings": {
         "full_width": false,
