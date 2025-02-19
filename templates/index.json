@@ -600,9 +600,9 @@
         "image_nXJ4Uc": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/En-tete_5.png",
+            "image": "shopify://shop_images/En-tete_6.png",
             "alignment": "center",
-            "max_width": 310
+            "max_width": 400
           }
         },
         "gsc_countdown_timer_countdown_mHMGw7": {
