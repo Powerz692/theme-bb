@@ -157,7 +157,7 @@
         "heading_gcwVkK": {
           "type": "heading",
           "settings": {
-            "text": "Épilation Pure Glide : Un visage rayonnant, une confiance décuplée",
+            "text": "Épilation Pure Glide : Indolore, un visage rayonnant, une confiance décuplée",
             "heading_tag": "h4",
             "text_color": "",
             "gradient": ""
@@ -344,7 +344,7 @@
             "column_size": "3",
             "title": "Julie",
             "heading_tag": "h4",
-            "content": "<p><em>\"</em>Fini les poils indésirables et les séances chez l’esthéticienne ! Ce bijou offre une épilation efficace et durable, en toute simplicité.<em>\"</em></p>",
+            "content": "<p><em>\"</em>Fini les poils indésirables et les séances chez l’esthéticienne ! Ce bijou offre une épilation efficace, indolore et durable.\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -490,7 +490,7 @@
           "settings": {
             "logo_width": 100,
             "author": "Valentine.C cliente vérifiée",
-            "content": "“Peau douce, zéro irritation, confiance retrouvée !”",
+            "content": "\"Indolore et efficace, peau lisse et éclatante !\"",
             "show_rating": true,
             "rating": 5
           }
