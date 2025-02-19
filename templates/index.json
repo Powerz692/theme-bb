@@ -797,6 +797,22 @@
         "text_color": ""
       }
     },
+    "image_with_text_overlay_6VCe6E": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Des_nouvelles_tendances_beautes_2025_1300_x_1500_px_3200_x_1600_px_2.png",
+        "mobile_image": "shopify://shop_images/Des_nouvelles_tendances_beautes_2025_1300_x_1500_px_7.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "faq_MQHPPV": {
       "type": "faq",
       "blocks": {
@@ -945,6 +961,7 @@
     "press_JEKmUH",
     "featured-product",
     "tabs_Waa9zt",
+    "image_with_text_overlay_6VCe6E",
     "multi_column_wTJTNc",
     "faq_MQHPPV",
     "17359565654f612dcd"
