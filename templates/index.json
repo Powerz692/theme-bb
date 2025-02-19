@@ -605,6 +605,12 @@
             "max_width": 310
           }
         },
+        "gsc_countdown_timer_countdown_mHMGw7": {
+          "type": "shopify://apps/gsc-countdown-timer/blocks/countdown/58dc5b1b-43d2-4209-b1f3-52aff31643ed",
+          "settings": {
+            "widget_id": "GSC-SMALL-zQGgekSHiryG"
+          }
+        },
         "buy-buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -632,6 +638,7 @@
         "variant-picker",
         "quantity-selector",
         "image_nXJ4Uc",
+        "gsc_countdown_timer_countdown_mHMGw7",
         "buy-buttons"
       ],
       "settings": {
