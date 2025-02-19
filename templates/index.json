@@ -708,6 +708,22 @@
         "heading_gradient": ""
       }
     },
+    "image_with_text_overlay_6VCe6E": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Des_nouvelles_tendances_beautes_2025_1300_x_1500_px_3200_x_1600_px_3.png",
+        "mobile_image": "shopify://shop_images/Des_nouvelles_tendances_beautes_2025_1300_x_1500_px_7.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "multi_column_wTJTNc": {
       "type": "multi-column",
       "blocks": {
@@ -749,40 +765,12 @@
             "link_text": "",
             "link_style": "link"
           }
-        },
-        "item_LV4cm8": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/3_97572972-54ed-475d-923a-14d0c1ab0ec1.png",
-            "column_size": "3",
-            "title": "Économie garantie",
-            "heading_tag": "h4",
-            "content": "<p>Dites adieu aux rasoirs jetables et aux séances d’épilation coûteuses. Un investissement qui vaut le coup !</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_6nijje": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/4_36a0119f-cc42-42fb-9ad2-62f3a0ed119a.png",
-            "column_size": "3",
-            "title": "Facile & pratique",
-            "heading_tag": "h4",
-            "content": "<p>Un appareil ergonomique, simple d’utilisation, qui s’adapte à toutes les zones du corps.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
         }
       },
       "block_order": [
         "item_xiaYUR",
         "item_QdbeiM",
-        "item_dPL9Rr",
-        "item_LV4cm8",
-        "item_6nijje"
+        "item_dPL9Rr"
       ],
       "settings": {
         "full_width": true,
@@ -792,25 +780,9 @@
         "subheading": "",
         "title": "Testé par des dermatologues",
         "content": "",
-        "background": "#f8e1e7",
+        "background": "#d9cde5",
         "background_gradient": "",
         "text_color": ""
-      }
-    },
-    "image_with_text_overlay_6VCe6E": {
-      "type": "image-with-text-overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/Des_nouvelles_tendances_beautes_2025_1300_x_1500_px_3200_x_1600_px_2.png",
-        "mobile_image": "shopify://shop_images/Des_nouvelles_tendances_beautes_2025_1300_x_1500_px_7.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
       }
     },
     "faq_MQHPPV": {
