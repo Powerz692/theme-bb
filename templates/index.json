@@ -597,6 +597,14 @@
           "disabled": true,
           "settings": {}
         },
+        "image_nXJ4Uc": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/En-tete_5.png",
+            "alignment": "center",
+            "max_width": 310
+          }
+        },
         "buy-buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -623,6 +631,7 @@
         "description",
         "variant-picker",
         "quantity-selector",
+        "image_nXJ4Uc",
         "buy-buttons"
       ],
       "settings": {
