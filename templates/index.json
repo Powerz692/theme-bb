@@ -597,6 +597,17 @@
           "disabled": true,
           "settings": {}
         },
+        "buy-buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "#803cee",
+            "atc_button_text_color": "#ffffff",
+            "payment_button_background": "#803cee",
+            "payment_button_text_color": ""
+          }
+        },
         "image_nXJ4Uc": {
           "type": "image",
           "settings": {
@@ -609,17 +620,6 @@
           "type": "shopify://apps/gsc-countdown-timer/blocks/countdown/58dc5b1b-43d2-4209-b1f3-52aff31643ed",
           "settings": {
             "widget_id": "GSC-SMALL-zQGgekSHiryG"
-          }
-        },
-        "buy-buttons": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_payment_button": false,
-            "show_gift_card_recipient": true,
-            "atc_button_background": "#803cee",
-            "atc_button_text_color": "#ffffff",
-            "payment_button_background": "#803cee",
-            "payment_button_text_color": ""
           }
         }
       },
@@ -637,9 +637,9 @@
         "description",
         "variant-picker",
         "quantity-selector",
+        "buy-buttons",
         "image_nXJ4Uc",
-        "gsc_countdown_timer_countdown_mHMGw7",
-        "buy-buttons"
+        "gsc_countdown_timer_countdown_mHMGw7"
       ],
       "settings": {
         "full_width": false,
