@@ -611,7 +611,7 @@
         "liquid_pGatbB": {
           "type": "liquid",
           "settings": {
-            "liquid": "<ul style=\"display: flex; align-items: center; flex-wrap: nowrap; gap: 8px; overflow-x: auto; max-width: 100%; margin-top: -15px; position: relative; z-index: 10;\" class=\"list list-payment\" role=\"list\">\n  {%- for type in shop.enabled_payment_types -%}\n    <li class=\"list-payment__item\" style=\"display: inline-flex;\">\n      {{ type | payment_type_svg_tag: class: 'icon icon--full-color', size: '32x32' }}\n    </li>\n  {%- endfor -%}\n</ul>"
+            "liquid": "<ul style=\"display: flex; align-items: center; justify-content: center; flex-wrap: nowrap; gap: 8px; overflow-x: auto; max-width: 100%; margin-top: -15px; position: relative; z-index: 10;\" class=\"list list-payment\" role=\"list\">\n  {%- for type in shop.enabled_payment_types -%}\n    <li class=\"list-payment__item\" style=\"display: inline-flex;\">\n      {{ type | payment_type_svg_tag: class: 'icon icon--full-color', size: '32x32' }}\n    </li>\n  {%- endfor -%}\n</ul>"
           }
         }
       },
