@@ -607,6 +607,12 @@
             "payment_button_background": "#00b67a",
             "payment_button_text_color": ""
           }
+        },
+        "liquid_pGatbB": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<ul style=\"display: flex; align-items: center; flex-wrap: nowrap; gap: 8px; overflow-x: auto; max-width: 100%; margin-top: -15px; position: relative; z-index: 10;\" class=\"list list-payment\" role=\"list\">\n  {%- for type in shop.enabled_payment_types -%}\n    <li class=\"list-payment__item\" style=\"display: inline-flex;\">\n      {{ type | payment_type_svg_tag: class: 'icon icon--full-color', size: '32x32' }}\n    </li>\n  {%- endfor -%}\n</ul>"
+          }
         }
       },
       "block_order": [
@@ -623,7 +629,8 @@
         "description",
         "variant-picker",
         "quantity-selector",
-        "buy-buttons"
+        "buy-buttons",
+        "liquid_pGatbB"
       ],
       "settings": {
         "full_width": false,
