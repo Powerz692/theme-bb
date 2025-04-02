@@ -129,35 +129,28 @@
         "overlay_opacity": 0
       }
     },
-    "rich_text_QXqMJ7": {
+    "rich_text_iG6MLz": {
       "type": "rich-text",
       "blocks": {
-        "subheading_dCqXRR": {
-          "type": "subheading",
-          "settings": {
-            "text": ""
-          }
-        },
-        "heading_gcwVkK": {
-          "type": "heading",
-          "settings": {
-            "text": "Un mode d'infusion innovant et indolore",
-            "heading_tag": "h3",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "richtext_kzMpxh": {
+        "richtext_FmJULR": {
           "type": "richtext",
           "settings": {
-            "content": ""
+            "content": "<h4>Libérez vos sinus avec la lumière rouge 660 nm, anti-inflammatoire et régénératrice !</h4>"
+          }
+        },
+        "image_76Xeag": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Sequenz_01_1.webp",
+            "width_mode": "custom",
+            "max_width": 600,
+            "mobile_max_width": 400
           }
         }
       },
       "block_order": [
-        "subheading_dCqXRR",
-        "heading_gcwVkK",
-        "richtext_kzMpxh"
+        "richtext_FmJULR",
+        "image_76Xeag"
       ],
       "settings": {
         "full_width": true,
@@ -176,7 +169,7 @@
       "settings": {
         "content_align": "center",
         "content_align_mobile": "center",
-        "heading": "Nos clientes en parlent le mieux",
+        "heading": "Our customers say it best",
         "heading_custom": false,
         "heading_font": "josefin_sans_n4",
         "heading_size": 40,
@@ -196,7 +189,7 @@
         "stars_count": 5,
         "stars_size": 28,
         "stars_size_mobile": 24,
-        "text": "<p>basé sur +<strong>1 067</strong> avis</p>",
+        "text": "<p>Based on  +<strong>1 067</strong> reviews</p>",
         "text_custom": false,
         "text_font": "josefin_sans_n4",
         "text_size": 20,
@@ -755,22 +748,12 @@
             "description": "Tapotez délicatement votre peau (visage, lèvres, cou, etc.). Répétez 2 à 3 fois pour des résultats visibles plus rapidement",
             "alignment": "left"
           }
-        },
-        "step_rTyP7G": {
-          "type": "step",
-          "settings": {
-            "video": "",
-            "title": "",
-            "description": "Massez l’excédent de sérum sur votre peau et laissez-le agir toute la nuit. Pour une routine complète, appliquez ensuite vos soins habituels.",
-            "alignment": "left"
-          }
         }
       },
       "block_order": [
         "step_7q9JWB",
         "step_VCbrVx",
-        "step_QxA9A8",
-        "step_rTyP7G"
+        "step_QxA9A8"
       ],
       "custom_css": [],
       "settings": {}
@@ -988,7 +971,7 @@
     "logo_list_4BjWGF",
     "rich_text_c9UmPD",
     "image_with_text_overlay_pjaxby",
-    "rich_text_QXqMJ7",
+    "rich_text_iG6MLz",
     "trust_pilot_reviews_AxNB3A",
     "multi_column_BKPLPt",
     "featured-product",
