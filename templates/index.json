@@ -1,4 +1,3 @@
-
 /*
  * ------------------------------------------------------------
  * IMPORTANT: The contents of this file are auto-generated.
@@ -12,29 +11,18 @@
   "sections": {
     "image-with-text-overlay": {
       "type": "image-with-text-overlay",
-      "blocks": {
-        "1664424230c4756b0e-1": {
-          "type": "heading",
-          "settings": {
-            "text": "Rides visibles ? Effacez-les définitivement !",
-            "heading_tag": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "1664424230c4756b0e-1"
-      ],
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/banner_site_TB_HD.png",
+        "image": "shopify://shop_images/B1D4938D-BF6E-4E2E-9CEB-8E47696B6576.jpg",
+        "mobile_image": "shopify://shop_images/3A9C1664-77A7-43C3-959C-578573F95BDC.jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 0
       }
     },
     "logo_list_4BjWGF": {
@@ -43,7 +31,6 @@
         "logo_A964Gc": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/1200px-VOGUE_revista_-_logo_1.png",
             "logo_width": 120,
             "link": ""
           }
@@ -51,7 +38,6 @@
         "logo_PwVxki": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Comopolitan_Magazine_Logo_svg_1.png",
             "logo_width": 120,
             "link": ""
           }
@@ -59,7 +45,6 @@
         "logo_pCMLRf": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Marie_Claire_Magazine_logo.svg_1.png",
             "logo_width": 120,
             "link": ""
           }
@@ -67,7 +52,6 @@
         "logo_fjVfnh": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/logo-seo_1.png",
             "logo_width": 120,
             "link": ""
           }
@@ -110,7 +94,7 @@
         "heading_JGUWbW": {
           "type": "heading",
           "settings": {
-            "text": "Pourquoi choisir la Micro Infusion Anti-âge ceralyne ?",
+            "text": "What Makes Us Different ?",
             "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
@@ -136,7 +120,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/image_benefice3.png",
+        "image": "shopify://shop_images/995ED222-5599-4C09-8959-25B1BCF7CD4F_1.jpg",
+        "mobile_image": "shopify://shop_images/995ED222-5599-4C09-8959-25B1BCF7CD4F_1.jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -212,7 +197,6 @@
         "stars_size": 28,
         "stars_size_mobile": 24,
         "text": "<p>basé sur +<strong>1 067</strong> avis</p>",
-        "text_right_image": "shopify://shop_images/Trustpilot_logo_1.png",
         "text_custom": false,
         "text_font": "josefin_sans_n4",
         "text_size": 20,
@@ -323,11 +307,11 @@
         "item_7BdeiK": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/1.png",
+            "image": "shopify://shop_images/3_1591ea17-2f2a-4990-a530-48e616c03988.png",
             "column_size": "3",
-            "title": "Laura",
+            "title": "Madison",
             "heading_tag": "h4",
-            "content": "<p><em>\"Pour celles qui se demandent, ce n'est pas douloureux ! En seulement quatre applications, j’ai l’impression d’avoir retrouvé la peau de mes 30 ans ! Mon teint est lumineux, ma peau est plus lisse et plus ferme. Je suis ravie\"</em></p>",
+            "content": "<p>\"I have chronic sinusitis and was looking for a natural alternative. Pureliss really helped reduce inflammation and facial pain. I love that it's rechargeable and so easy to use. It’s painless and provides great relief for my sinuses.\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -336,11 +320,11 @@
         "item_JJLm4U": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/AVANT.png",
+            "image": "shopify://shop_images/2_be5185b2-6286-4422-a697-98b09a9cbb28.png",
             "column_size": "3",
-            "title": "Marie",
+            "title": "Jake",
             "heading_tag": "h4",
-            "content": "<p><em>\"J'avais peur que ce soit douloureux, mais pas du tout ! Je ne supportais plus mes rides du front et pensais à un traitement en clinique, puis j’ai essayé Ceralyne. Je suis tellement heureuse !\"</em></p>",
+            "content": "<p>\"I’ve had a blocked nose for years and was so tired of nasal sprays. I tried Pureliss out of curiosity, and honestly, I’m amazed! After just a few days of use, I can breathe so much better. Super easy to use and, most importantly, no side effects.\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -349,11 +333,11 @@
         "item_GECyWQ": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/AVANTLAST.png",
+            "image": "shopify://shop_images/5_e9d2ffb3-3f72-48b3-b977-67074ae5bd67.png",
             "column_size": "3",
-            "title": "Agathe",
+            "title": "Brooklyn",
             "heading_tag": "h4",
-            "content": "<p><em>\"Je pensais que le laser était ma seule solution, mais grâce à la micro-infusion, ma peau est enfin uniforme et éclatante ! Et en plus, le traitement est indolore !\"</em></p>",
+            "content": "<p>\"Since I started using this product, my nights have completely changed. I used to wake up multiple times because of a completely blocked nose, but now I sleep peacefully. I 100% recommend it!\"</p><p></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -362,11 +346,11 @@
         "item_MwJML3": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/3.png",
+            "image": "shopify://shop_images/3_ef60956d-2fcb-413f-8f85-bfd6dc170b52.png",
             "column_size": "3",
-            "title": "Mélanie",
+            "title": "Marc",
             "heading_tag": "h4",
-            "content": "<p><em>\"Dès la première application, j’ai remarqué que les ridules autour de mes lèvres commençaient à s’estomper. Après environ un mois, mes lèvres étaient plus lisses et repulpées.\"</em></p>",
+            "content": "<p>\"With my seasonal allergies, I was constantly congested. After two weeks with this device, I have far fewer flare-ups, and my nose is much less blocked. The red light effect is impressive!\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -375,11 +359,11 @@
         "item_p6MkDp": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/AVANT2.png",
+            "image": "shopify://shop_images/4_bf98cc41-dde3-4285-9860-1533e6de92e2.png",
             "column_size": "3",
-            "title": "Sylvie",
+            "title": "Brandon",
             "heading_tag": "h4",
-            "content": "<p><em>\"C’est incroyable ! Je n’aurais jamais cru que mes pattes d’oie disparaîtraient aussi rapidement et que l’application serait si simple\"</em></p>",
+            "content": "<p>\"I've struggled with sinus congestion for years, and nothing seemed to help long-term. I decided to give this product a try, and I’m so glad I did! After just a few days, I can already feel a difference—my breathing is clearer, and I wake up feeling refreshed. It’s easy to use, completely painless, and a game-changer for my sinus issues!\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -390,48 +374,9 @@
           "settings": {
             "image": "shopify://shop_images/2.png",
             "column_size": "3",
-            "title": "Brigitte",
+            "title": "Savannah",
             "heading_tag": "h4",
-            "content": "<p><em>\"Je détestais les rides et la peau relâchée sur mon cou, et le seul produit qui a vraiment fait la différence, c’est celui-ci. Ma peau est tellement lisse et ferme que le résultat est bluffant !\"</em></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_EwNkYx": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/4.png",
-            "column_size": "3",
-            "title": "Estelle",
-            "heading_tag": "h4",
-            "content": "<p><em>\"Les pattes d’oie autour de mes yeux étaient mon plus grand complexe, mais en quelques semaines, elles ont pratiquement disparu. Je le recommande à toute mes familles\"</em></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_yViHK3": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/5.png",
-            "column_size": "3",
-            "title": "Tiphaine",
-            "heading_tag": "h4",
-            "content": "<p><em>\"Depuis que j'utilise ce produit, ma peau a été transformée. Les résultats sont visibles rapidement, et je ne peux plus m’en passer. C’est devenu un indispensable dans ma routine beauté\"</em></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_JUW7xR": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/6.png",
-            "column_size": "3",
-            "title": "Christelle",
-            "heading_tag": "h4",
-            "content": "<p><em>\"À 71 ans, je pensais qu’il n’y avait plus rien à faire pour les rides sur mon décolleté. Mais ce produit a fait des merveilles\"</em></p>",
+            "content": "<p>\"I was afraid the device would be uncomfortable to use, but not at all! It warms up slightly, but it’s very comfortable. And most importantly, it works! After just a few days, I can already feel the difference—my nose is much clearer.\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -444,10 +389,7 @@
         "item_GECyWQ",
         "item_MwJML3",
         "item_p6MkDp",
-        "item_4yzaE8",
-        "item_EwNkYx",
-        "item_yViHK3",
-        "item_JUW7xR"
+        "item_4yzaE8"
       ],
       "custom_css": [
         ".section-full {padding-top: 0px;}"
@@ -499,7 +441,6 @@
           "type": "image",
           "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/Winter_Sale_FR.webp",
             "alignment": "center",
             "max_width": 500
           }
@@ -513,7 +454,6 @@
         "image_h9L7gC": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/offert_serum_4e1202a9-0bd8-410a-9d6b-e190e5a30a31.png",
             "alignment": "center",
             "max_width": 500
           }
@@ -565,7 +505,6 @@
         "image_NnVtjL": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/icon_trust_atc4.png",
             "alignment": "center",
             "max_width": 500
           }
@@ -677,7 +616,6 @@
         "item_xiaYUR": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/image_3_2.webp",
             "column_size": "3",
             "title": "Peptides de collagène",
             "heading_tag": "h4",
@@ -690,7 +628,6 @@
         "item_QdbeiM": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/elastyn.png",
             "column_size": "3",
             "title": "Élastine",
             "heading_tag": "h4",
@@ -703,7 +640,6 @@
         "item_dPL9Rr": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/image_3_4.webp",
             "column_size": "3",
             "title": "Acide hyaluronique",
             "heading_tag": "h4",
@@ -716,7 +652,6 @@
         "item_LV4cm8": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/image_3_1.webp",
             "column_size": "3",
             "title": "Glycérine",
             "heading_tag": "h4",
@@ -729,7 +664,6 @@
         "item_6nijje": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/squalane.png",
             "column_size": "3",
             "title": "Squalane",
             "heading_tag": "h4",
