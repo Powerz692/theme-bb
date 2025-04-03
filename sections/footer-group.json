@@ -21,7 +21,7 @@
             "mobile_icon_width": 24,
             "icon_width": 24,
             "icon_background_type": "circle",
-            "icon_background": "#f8e1f5",
+            "icon_background": "#5ce1e6",
             "icon_color": "#000000",
             "title": "Satisfait ou remboursé",
             "content": ""
@@ -34,9 +34,9 @@
             "mobile_icon_width": 24,
             "icon_width": 24,
             "icon_background_type": "circle",
-            "icon_background": "#f8e1f5",
+            "icon_background": "#5ce1e6",
             "icon_color": "#000000",
-            "title": "Service Client 7J/7",
+            "title": "7-Day Customer Support",
             "content": ""
           }
         },
@@ -47,9 +47,9 @@
             "mobile_icon_width": 24,
             "icon_width": 24,
             "icon_background_type": "circle",
-            "icon_background": "#f8e1f5",
+            "icon_background": "#5ce1e6",
             "icon_color": "#000000",
-            "title": "Paiement sécurisé",
+            "title": "Secure payment",
             "content": ""
           }
         },
@@ -60,9 +60,9 @@
             "mobile_icon_width": 24,
             "icon_width": 24,
             "icon_background_type": "circle",
-            "icon_background": "#f8e1f5",
+            "icon_background": "#5ce1e6",
             "icon_color": "#000000",
-            "title": "Livraison offerte à partir de 50€",
+            "title": "Free shipping on orders over $50",
             "content": ""
           }
         }
@@ -93,7 +93,7 @@
           "settings": {
             "image_width": 150,
             "heading_size": "h3",
-            "title": "Inscrivez-vous pour recevoir nos offres et actualités",
+            "title": "Sign up to receive our offers and updates",
             "content": ""
           }
         },
@@ -109,7 +109,7 @@
           "type": "text",
           "settings": {
             "title": "Nous contacter",
-            "content": "<p>Service client : contact@purelisse.fr</p><p>Horaires : Du Lun au Ven de 9h à 12h et de 14h à 18h / Sam et Dim de 10h à 12h</p>",
+            "content": "<p><strong>Customer Service: </strong></p><p><a><strong>contact@purelisse.fr </strong></a><strong>Hours: Monday to Friday from 9 AM to 12 PM and 2 PM to 6 PM / Saturday and Sunday from 10 AM to 12 PM</strong></p>",
             "enable_follow_on_shop": false
           }
         }
