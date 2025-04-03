@@ -338,19 +338,6 @@
             "link_text": "",
             "link_style": "link"
           }
-        },
-        "item_4yzaE8": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/2.png",
-            "column_size": "3",
-            "title": "Savannah",
-            "heading_tag": "h4",
-            "content": "<p>\"I was afraid the device would be uncomfortable to use, but not at all! It warms up slightly, but it’s very comfortable. And most importantly, it works! After just a few days, I can already feel the difference—my nose is much clearer.\"</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
         }
       },
       "block_order": [
@@ -358,8 +345,7 @@
         "item_JJLm4U",
         "item_GECyWQ",
         "item_MwJML3",
-        "item_p6MkDp",
-        "item_4yzaE8"
+        "item_p6MkDp"
       ],
       "custom_css": [
         ".section-full {padding-top: 0px;}"
