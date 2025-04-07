@@ -11,80 +11,6 @@
   "type": "footer",
   "name": "Footer group",
   "sections": {
-    "text-with-icons": {
-      "type": "text-with-icons",
-      "blocks": {
-        "discount": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-return",
-            "mobile_icon_width": 24,
-            "icon_width": 24,
-            "icon_background_type": "circle",
-            "icon_background": "#5ce1e6",
-            "icon_color": "#000000",
-            "title": "Satisfait ou remboursé",
-            "content": ""
-          }
-        },
-        "customer-support": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-customer-support",
-            "mobile_icon_width": 24,
-            "icon_width": 24,
-            "icon_background_type": "circle",
-            "icon_background": "#5ce1e6",
-            "icon_color": "#000000",
-            "title": "7-Day Customer Support",
-            "content": ""
-          }
-        },
-        "payment": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-lock",
-            "mobile_icon_width": 24,
-            "icon_width": 24,
-            "icon_background_type": "circle",
-            "icon_background": "#5ce1e6",
-            "icon_color": "#000000",
-            "title": "Secure payment",
-            "content": ""
-          }
-        },
-        "free-shipping": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-box",
-            "mobile_icon_width": 24,
-            "icon_width": 24,
-            "icon_background_type": "circle",
-            "icon_background": "#5ce1e6",
-            "icon_color": "#000000",
-            "title": "Free shipping on orders over $50",
-            "content": ""
-          }
-        }
-      },
-      "block_order": [
-        "discount",
-        "customer-support",
-        "payment",
-        "free-shipping"
-      ],
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "title": "",
-        "heading_tag": "h6",
-        "text_alignment": "center",
-        "icon_spacing": "small",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "footer": {
       "type": "footer",
       "blocks": {
@@ -131,7 +57,6 @@
     }
   },
   "order": [
-    "text-with-icons",
     "footer"
   ]
 }
