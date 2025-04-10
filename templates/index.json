@@ -9,17 +9,6 @@
  */
 {
   "sections": {
-    "17359565654f612dcd": {
-      "type": "apps",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "image_with_text_overlay_KNECPt": {
       "type": "image-with-text-overlay",
       "blocks": {
@@ -36,11 +25,11 @@
       ],
       "settings": {
         "full_width": true,
-        "allow_transparent_header": false,
+        "allow_transparent_header": true,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Le_soin_visuel_pour_vos_oreilles_700_x_1000_px_3.jpg",
-        "mobile_image": "shopify://shop_images/Le_soin_visuel_pour_vos_oreilles_700_x_1000_px_3.jpg",
+        "image": "shopify://shop_images/Le_soin_visuel_pour_vos_oreilles_700_x_1000_px_4.jpg",
+        "mobile_image": "shopify://shop_images/Le_soin_visuel_pour_vos_oreilles_700_x_1000_px_4.jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -50,7 +39,6 @@
     }
   },
   "order": [
-    "17359565654f612dcd",
     "image_with_text_overlay_KNECPt"
   ]
 }

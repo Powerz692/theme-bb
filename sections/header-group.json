@@ -48,7 +48,7 @@
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#5ce1e6",
+        "background": "#4a90e2",
         "background_gradient": "",
         "text_color": "#ffffff"
       }
@@ -58,8 +58,9 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo_max_width": 120,
-        "logo_mobile_max_width": 120,
+        "logo": "shopify://shop_images/AURICLEAN_2.png",
+        "logo_max_width": 160,
+        "logo_mobile_max_width": 170,
         "menu": "main-menu",
         "sidebar_menu": "",
         "secondary_menu": "",
@@ -72,8 +73,9 @@
         "show_country_flag": true,
         "show_country_name": false,
         "transparent_header_text_color": "#ffffff",
-        "reduce_padding": false,
-        "background_opacity": 98,
+        "transparent_logo": "shopify://shop_images/AURICLEAN_2.png",
+        "reduce_padding": true,
+        "background_opacity": 100,
         "background_blur_radius": 0
       }
     }
