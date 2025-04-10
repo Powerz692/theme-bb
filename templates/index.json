@@ -94,10 +94,36 @@
         "logo_item_background": "",
         "logo_item_border": ""
       }
+    },
+    "rich_text_r6dDKW": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_MqepNn": {
+          "type": "heading",
+          "settings": {
+            "text": "Pourquoi nous choisir",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_MqepNn"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
     "image_with_text_overlay_KNECPt",
-    "logo_list_mn67Wi"
+    "logo_list_mn67Wi",
+    "rich_text_r6dDKW"
   ]
 }
