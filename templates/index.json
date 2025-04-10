@@ -167,7 +167,7 @@
         "full_width": true,
         "allow_transparent_header": false,
         "autoplay": true,
-        "video_size": "auto",
+        "video_size": "sm",
         "video": "shopify://files/videos/Vidéo sans titre ‐ Réalisée avec Clipchamp (2).mp4",
         "mobile_video": "shopify://files/videos/Vidéo sans titre ‐ Réalisée avec Clipchamp (2).mp4",
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
