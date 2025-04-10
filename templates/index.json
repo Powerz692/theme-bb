@@ -43,6 +43,7 @@
         "logo_wQNVn3": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/a73de403-27ac-4d2f-a34e-02ef71796960_3.webp",
             "logo_width": 120,
             "link": ""
           }
@@ -50,13 +51,15 @@
         "logo_cV3KFp": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/GQ_Logo_svg.png",
+            "logo_width": 160,
             "link": ""
           }
         },
         "logo_8GWNRm": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Cosmopolitan-Logo.png",
             "logo_width": 120,
             "link": ""
           }
@@ -64,6 +67,7 @@
         "logo_UQ9eJX": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Healthline_Logo_Black.svg",
             "logo_width": 120,
             "link": ""
           }
