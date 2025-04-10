@@ -17,28 +17,20 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "OFFRES D’HIVER JUSQU’À -50%",
-            "url": ""
-          }
-        },
-        "message_h3JjH9": {
-          "type": "message",
-          "settings": {
-            "text": "STOCKS BIENTÔT ÉPUISÉS",
+            "text": "Paiement sécurisé",
             "url": ""
           }
         },
         "message_XbYwYf": {
           "type": "message",
           "settings": {
-            "text": "SATISFAIT OU REMBOURSÉ",
+            "text": "Satisfait ou remboursé",
             "url": ""
           }
         }
       },
       "block_order": [
         "message",
-        "message_h3JjH9",
         "message_XbYwYf"
       ],
       "settings": {
