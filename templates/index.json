@@ -135,12 +135,66 @@
         "overlay_color": "#000000",
         "overlay_opacity": 0
       }
+    },
+    "rich_text_nKmnCM": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_xHjb46": {
+          "type": "heading",
+          "settings": {
+            "text": "La technologie au service de vos oreilles.",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_xHjb46"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "video_8tJ3Yk": {
+      "type": "video",
+      "blocks": {
+        "heading_cE3zer": {
+          "type": "heading",
+          "settings": {
+            "text": "Video",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_cE3zer"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "auto",
+        "video": "shopify://files/videos/Vidéo sans titre ‐ Réalisée avec Clipchamp (2).mp4",
+        "mobile_video": "shopify://files/videos/Vidéo sans titre ‐ Réalisée avec Clipchamp (2).mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
     }
   },
   "order": [
     "image_with_text_overlay_KNECPt",
     "logo_list_mn67Wi",
     "rich_text_r6dDKW",
-    "image_with_text_overlay_RLRTpa"
+    "image_with_text_overlay_RLRTpa",
+    "rich_text_nKmnCM",
+    "video_8tJ3Yk"
   ]
 }
