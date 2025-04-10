@@ -36,9 +36,64 @@
         "overlay_color": "#000000",
         "overlay_opacity": 0
       }
+    },
+    "logo_list_mn67Wi": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_wQNVn3": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_cV3KFp": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_8GWNRm": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_UQ9eJX": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_wQNVn3",
+        "logo_cV3KFp",
+        "logo_8GWNRm",
+        "logo_UQ9eJX"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "title": "Vu sur :",
+        "content": "",
+        "text_alignment": "center",
+        "items_per_row": 5,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
     }
   },
   "order": [
-    "image_with_text_overlay_KNECPt"
+    "image_with_text_overlay_KNECPt",
+    "logo_list_mn67Wi"
   ]
 }
