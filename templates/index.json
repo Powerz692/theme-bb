@@ -163,18 +163,6 @@
     },
     "video_8tJ3Yk": {
       "type": "video",
-      "blocks": {
-        "heading_cE3zer": {
-          "type": "heading",
-          "settings": {
-            "text": "Video",
-            "heading_tag": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "heading_cE3zer"
-      ],
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
