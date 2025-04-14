@@ -175,6 +175,31 @@
         "overlay_color": "#000000",
         "overlay_opacity": 0
       }
+    },
+    "rich_text_tJL8VC": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_qqDRia": {
+          "type": "heading",
+          "settings": {
+            "text": "Nos clients en parlent le mieux !",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_qqDRia"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -183,6 +208,7 @@
     "rich_text_r6dDKW",
     "image_with_text_overlay_RLRTpa",
     "rich_text_nKmnCM",
-    "video_8tJ3Yk"
+    "video_8tJ3Yk",
+    "rich_text_tJL8VC"
   ]
 }
