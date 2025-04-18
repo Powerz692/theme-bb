@@ -200,6 +200,21 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "video_pdb8pj": {
+      "type": "video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "auto",
+        "video": "shopify://files/videos/a2af2f087e3a4d599c2851aefca0a509.mp4",
+        "mobile_video": "shopify://files/videos/a2af2f087e3a4d599c2851aefca0a509.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
     }
   },
   "order": [
@@ -209,6 +224,7 @@
     "image_with_text_overlay_RLRTpa",
     "rich_text_nKmnCM",
     "video_8tJ3Yk",
-    "rich_text_tJL8VC"
+    "rich_text_tJL8VC",
+    "video_pdb8pj"
   ]
 }
