@@ -215,6 +215,109 @@
         "overlay_color": "#000000",
         "overlay_opacity": 0
       }
+    },
+    "featured_product_hbDnfe": {
+      "type": "featured-product",
+      "blocks": {
+        "vendor_YBmMna": {
+          "type": "vendor",
+          "settings": {}
+        },
+        "title_6JyG8y": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges_gRfkkV": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price_WRBcTc": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating_EFGLiB": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "separator_tKpBVX": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description_FqUBiT": {
+          "type": "description",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "collapse_content": false
+          }
+        },
+        "variant_picker_eCkJYF": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_style": "block",
+            "swatch_selector_style": "swatch",
+            "variant_image_options": "",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector_yk7Upx": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_Pyn9zw": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "pickup_availability_iftHGT": {
+          "type": "pickup_availability",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "vendor_YBmMna",
+        "title_6JyG8y",
+        "badges_gRfkkV",
+        "price_WRBcTc",
+        "rating_EFGLiB",
+        "separator_tKpBVX",
+        "description_FqUBiT",
+        "variant_picker_eCkJYF",
+        "quantity_selector_yk7Upx",
+        "buy_buttons_Pyn9zw",
+        "pickup_availability_iftHGT"
+      ],
+      "settings": {
+        "full_width": true,
+        "product": "auriclean™-nettoyeur-d-oreilles-intelligent-avec-camera-hd",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
     }
   },
   "order": [
@@ -225,6 +328,7 @@
     "rich_text_nKmnCM",
     "video_8tJ3Yk",
     "rich_text_tJL8VC",
-    "video_pdb8pj"
+    "video_pdb8pj",
+    "featured_product_hbDnfe"
   ]
 }
