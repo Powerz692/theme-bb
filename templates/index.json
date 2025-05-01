@@ -261,12 +261,6 @@
           "type": "badges",
           "settings": {}
         },
-        "rating_EFGLiB": {
-          "type": "rating",
-          "settings": {
-            "show_empty": false
-          }
-        },
         "separator_tKpBVX": {
           "type": "separator",
           "settings": {}
@@ -297,9 +291,9 @@
         "buy_buttons_Pyn9zw": {
           "type": "buy_buttons",
           "settings": {
-            "show_payment_button": true,
-            "show_gift_card_recipient": true,
-            "atc_button_background": "",
+            "show_payment_button": false,
+            "show_gift_card_recipient": false,
+            "atc_button_background": "#4a90e2",
             "atc_button_text_color": "",
             "payment_button_background": "",
             "payment_button_text_color": ""
@@ -318,7 +312,6 @@
         "image_GEgXwH",
         "liquid_ixgdH9",
         "badges_gRfkkV",
-        "rating_EFGLiB",
         "separator_tKpBVX",
         "description_FqUBiT",
         "variant_picker_eCkJYF",
