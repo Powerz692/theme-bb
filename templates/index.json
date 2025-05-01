@@ -251,6 +251,12 @@
             "max_width": 400
           }
         },
+        "liquid_ixgdH9": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<!DOCTYPE html>\n<html lang=\"fr\">\n<head>\n  <meta charset=\"UTF-8\" />\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"/>\n  <title>Timer AuriClean</title>\n  <style>\n    .timer-wrapper {\n      display: flex;\n      justify-content: center;\n      align-items: center;\n      gap: 20px;\n      font-family: Arial, sans-serif;\n      font-weight: bold;\n      font-size: 32px;\n      color: #4A90E2;\n      margin-top: 20px;\n    }\n\n    .timer-section {\n      text-align: center;\n    }\n\n    .timer-section span {\n      display: block;\n      font-size: 14px;\n      margin-top: 5px;\n      font-weight: normal;\n      color: #4A90E2;\n    }\n  </style>\n</head>\n<body>\n  <div class=\"timer-wrapper\">\n    <div class=\"timer-section\">\n      <div id=\"days\">00</div>\n      <span>Jours</span>\n    </div>\n    <div class=\"timer-section\">\n      <div id=\"hours\">00</div>\n      <span>Heures</span>\n    </div>\n    <div class=\"timer-section\">\n      <div id=\"minutes\">15</div>\n      <span>Minutes</span>\n    </div>\n    <div class=\"timer-section\">\n      <div id=\"seconds\">00</div>\n      <span>Secondes</span>\n    </div>\n  </div>\n\n  <script>\n    let initialDuration = 15 * 60; // 15 minutes\n    let totalSeconds = initialDuration;\n\n    function updateTimer() {\n      let days = Math.floor(totalSeconds / 86400);\n      let hours = Math.floor((totalSeconds % 86400) / 3600);\n      let minutes = Math.floor((totalSeconds % 3600) / 60);\n      let seconds = totalSeconds % 60;\n\n      document.getElementById('days').textContent = String(days).padStart(2, '0');\n      document.getElementById('hours').textContent = String(hours).padStart(2, '0');\n      document.getElementById('minutes').textContent = String(minutes).padStart(2, '0');\n      document.getElementById('seconds').textContent = String(seconds).padStart(2, '0');\n\n      totalSeconds--;\n\n      if (totalSeconds < 0) {\n        totalSeconds = initialDuration; // redémarre le timer\n      }\n\n      setTimeout(updateTimer, 1000);\n    }\n\n    updateTimer();\n  </script>\n</body>\n</html>"
+          }
+        },
         "badges_gRfkkV": {
           "type": "badges",
           "settings": {}
@@ -310,6 +316,7 @@
         "liquid_7yAAMc",
         "price_WRBcTc",
         "image_GEgXwH",
+        "liquid_ixgdH9",
         "badges_gRfkkV",
         "rating_EFGLiB",
         "separator_tKpBVX",
