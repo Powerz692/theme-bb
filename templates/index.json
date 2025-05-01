@@ -299,6 +299,20 @@
             "payment_button_text_color": ""
           }
         },
+        "image_g6AWVJ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/badgetrust2.webp",
+            "alignment": "center",
+            "max_width": 400
+          }
+        },
+        "liquid_6hEgqg": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
+        },
         "pickup_availability_iftHGT": {
           "type": "pickup_availability",
           "settings": {}
@@ -317,6 +331,8 @@
         "variant_picker_eCkJYF",
         "quantity_selector_yk7Upx",
         "buy_buttons_Pyn9zw",
+        "image_g6AWVJ",
+        "liquid_6hEgqg",
         "pickup_availability_iftHGT"
       ],
       "settings": {
