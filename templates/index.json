@@ -102,7 +102,7 @@
           "type": "heading",
           "settings": {
             "text": "Pourquoi choisir AuriClean ?",
-            "heading_tag": "h2",
+            "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
           }
