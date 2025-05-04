@@ -384,7 +384,7 @@
           "type": "tab",
           "settings": {
             "title": "Service client 7J/7",
-            "content": "<p>Notre équipe est à votre disposition pour répondre à vos questions 7J/7</p><p>Vous pouvez nous contacter par email, vous aurez une réponse le jour même.<br/><br/></p>",
+            "content": "<p>Notre équipe est à votre disposition pour répondre à vos questions 7J/7</p><p>Vous pouvez nous contacter par email.</p><p>Temps de réponse moyen : 24H<br/><br/></p>",
             "page": ""
           }
         }
@@ -486,6 +486,27 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
+    },
+    "contact_8rF8XY": {
+      "type": "contact",
+      "name": "Contact form",
+      "settings": {
+        "full_width": true,
+        "subheading": "Notre service client est disponible 7 jours sur 7. Temps de réponse moyen : 24H",
+        "title": "Une question ?",
+        "content": "<p>Écrivez-nous via le formulaire ci-dessous et nous vous répondrons dans les plus brefs délais.<br/><br/></p>",
+        "text_position": "center",
+        "contact_form_size": "large",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "contact_background": "",
+        "contact_text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
     }
   },
   "order": [
@@ -499,6 +520,7 @@
     "video_pdb8pj",
     "featured_product_hbDnfe",
     "tabs_Y8XnTF",
-    "faq_kecTNx"
+    "faq_kecTNx",
+    "contact_8rF8XY"
   ]
 }
