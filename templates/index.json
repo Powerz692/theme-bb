@@ -409,6 +409,83 @@
         "heading_color": "",
         "heading_gradient": ""
       }
+    },
+    "faq_kecTNx": {
+      "type": "faq",
+      "blocks": {
+        "item_TL6zCX": {
+          "type": "item",
+          "settings": {
+            "title": "AuriClean est-il sûr pour les oreilles ?",
+            "content": "<p>Oui, <strong>AuriClean </strong>est conçu pour respecter la physiologie de l’oreille. Contrairement aux cotons-tiges qui peuvent pousser le cérumen vers le fond, notre système permet un nettoyage doux, sans danger pour le tympan.<br/><br/></p>"
+          }
+        },
+        "item_hH87n8": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce que ça fait mal ?",
+            "content": "<p>Pas du tout ! <strong>AuriClean</strong> est totalement indolore. Il a été conçu pour offrir un nettoyage agréable, sans inconfort.<br/><br/></p>"
+          }
+        },
+        "item_bfqETG": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce adapté aux enfants ?",
+            "content": "<p>Oui, à partir de 6 ans sous la supervision d’un adulte. Le produit est doux, mais il est important d’accompagner les plus jeunes.<br/><br/></p>"
+          }
+        },
+        "item_qmj73f": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce que je peux l’utiliser si j’ai des bouchons d’oreilles ?",
+            "content": "<p><strong>AuriClean</strong> aide à prévenir l’accumulation de cérumen. En cas de bouchon sévère déjà formé, il est préférable de consulter un professionnel avant utilisation.<br/><br/></p>"
+          }
+        },
+        "item_nCDnmk": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce réutilisable ?",
+            "content": "<p>Oui, <strong>AuriClean</strong> est conçu pour être utilisé de nombreuses fois. Les embouts sont lavables et durables. Il suffit de rincer les embouts à l’eau tiède et de les laisser sécher à l’air libre. Un entretien simple pour une hygiène optimale.<br/><br/><br/><br/></p>"
+          }
+        },
+        "item_hCaKcC": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce que c’est mieux que les cotons-tiges ?",
+            "content": "<p>Absolument. Les cotons-tiges peuvent aggraver les bouchons. <strong>AuriClean</strong> nettoie en douceur sans risquer de pousser le cérumen plus profondément.<br/><br/></p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_TL6zCX",
+        "item_hH87n8",
+        "item_bfqETG",
+        "item_qmj73f",
+        "item_nCDnmk",
+        "item_hCaKcC"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
+        "answer_time": "Average answer time: 24h",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
     }
   },
   "order": [
@@ -421,6 +498,7 @@
     "rich_text_tJL8VC",
     "video_pdb8pj",
     "featured_product_hbDnfe",
-    "tabs_Y8XnTF"
+    "tabs_Y8XnTF",
+    "faq_kecTNx"
   ]
 }
