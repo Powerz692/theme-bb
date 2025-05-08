@@ -218,70 +218,6 @@
     },
     "trust_pilot_reviews_zF6dQh": {
       "type": "Trust_Pilot_Reviews",
-      "blocks": {
-        "item_nebjzC": {
-          "type": "item",
-          "settings": {
-            "stars_count": 5,
-            "heading": "I love it! ðŸ˜",
-            "text": "I was initially hesitant to switch from my usual brand to this new one, but I'm so glad I did! This product has exceeded my expectations. It's not only affordable but also incredibly efficient. The quality is top-notch, and it's user-friendly.",
-            "author_date": "Cathrine"
-          }
-        },
-        "item_BdVWQj": {
-          "type": "item",
-          "settings": {
-            "stars_count": 5,
-            "heading": "I love it! ðŸ˜",
-            "text": "I was initially hesitant to switch from my usual brand to this new one, but I'm so glad I did! This product has exceeded my expectations. It's not only affordable but also incredibly efficient. The quality is top-notch, and it's user-friendly.",
-            "author_date": "Cathrine"
-          }
-        },
-        "item_LQ9qG8": {
-          "type": "item",
-          "settings": {
-            "stars_count": 5,
-            "heading": "I love it! ðŸ˜",
-            "text": "I was initially hesitant to switch from my usual brand to this new one, but I'm so glad I did! This product has exceeded my expectations. It's not only affordable but also incredibly efficient. The quality is top-notch, and it's user-friendly.",
-            "author_date": "Cathrine"
-          }
-        },
-        "item_pexTWJ": {
-          "type": "item",
-          "settings": {
-            "stars_count": 5,
-            "heading": "I love it! ðŸ˜",
-            "text": "I was initially hesitant to switch from my usual brand to this new one, but I'm so glad I did! This product has exceeded my expectations. It's not only affordable but also incredibly efficient. The quality is top-notch, and it's user-friendly.",
-            "author_date": "Cathrine"
-          }
-        },
-        "item_EBMhhB": {
-          "type": "item",
-          "settings": {
-            "stars_count": 5,
-            "heading": "I love it! ðŸ˜",
-            "text": "I was initially hesitant to switch from my usual brand to this new one, but I'm so glad I did! This product has exceeded my expectations. It's not only affordable but also incredibly efficient. The quality is top-notch, and it's user-friendly.",
-            "author_date": "Cathrine"
-          }
-        },
-        "item_rVQmDh": {
-          "type": "item",
-          "settings": {
-            "stars_count": 5,
-            "heading": "I love it! ðŸ˜",
-            "text": "I was initially hesitant to switch from my usual brand to this new one, but I'm so glad I did! This product has exceeded my expectations. It's not only affordable but also incredibly efficient. The quality is top-notch, and it's user-friendly.",
-            "author_date": "Cathrine"
-          }
-        }
-      },
-      "block_order": [
-        "item_nebjzC",
-        "item_BdVWQj",
-        "item_LQ9qG8",
-        "item_pexTWJ",
-        "item_EBMhhB",
-        "item_rVQmDh"
-      ],
       "name": "SS - Testimonial #16",
       "settings": {
         "content_align": "center",
@@ -409,6 +345,65 @@
         "content_width": 120,
         "border_thickness": 0,
         "lazy": true
+      }
+    },
+    "multi_column_wDgrNK": {
+      "type": "multi-column",
+      "blocks": {
+        "item_bdEqpC": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_8M4gzw": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_LMPaM3": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_bdEqpC",
+        "item_8M4gzw",
+        "item_LMPaM3"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "small",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "featured_product_hbDnfe": {
@@ -796,6 +791,7 @@
     "rich_text_tJL8VC",
     "video_pdb8pj",
     "trust_pilot_reviews_zF6dQh",
+    "multi_column_wDgrNK",
     "featured_product_hbDnfe",
     "tabs_Y8XnTF",
     "faq_kecTNx",
