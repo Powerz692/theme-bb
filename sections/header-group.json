@@ -50,9 +50,9 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/AURICLEAN_2.png",
+        "logo": "shopify://shop_images/Design_sans_titre.png",
         "logo_max_width": 160,
-        "logo_mobile_max_width": 170,
+        "logo_mobile_max_width": 105,
         "menu": "main-menu",
         "sidebar_menu": "",
         "secondary_menu": "",
@@ -65,9 +65,8 @@
         "show_country_flag": true,
         "show_country_name": false,
         "transparent_header_text_color": "#ffffff",
-        "transparent_logo": "shopify://shop_images/AURICLEAN_2.png",
         "reduce_padding": true,
-        "background_opacity": 100,
+        "background_opacity": 0,
         "background_blur_radius": 0
       }
     }
