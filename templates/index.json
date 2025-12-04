@@ -30,28 +30,32 @@
         "logo_A964Gc": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/19baed41-5a17-470a-9d48-381ee29781e0.png",
+            "logo_width": 300,
             "link": ""
           }
         },
         "logo_PwVxki": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/dcdf0d2f-551c-4f86-99dc-4a2627a471c7.png",
+            "logo_width": 300,
             "link": ""
           }
         },
         "logo_pCMLRf": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/6204ef70-f1a9-4939-9e25-1037791f187e_1.png",
+            "logo_width": 150,
             "link": ""
           }
         },
         "logo_fjVfnh": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/5f09805f-f264-41d6-bd58-42ca390edcc5.png",
+            "logo_width": 160,
             "link": ""
           }
         },
@@ -83,7 +87,7 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
-        "logo_item_background": "",
+        "logo_item_background": "#ffffff",
         "logo_item_border": ""
       }
     },
