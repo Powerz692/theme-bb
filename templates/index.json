@@ -11,6 +11,7 @@
   "sections": {
     "image-with-text-overlay": {
       "type": "image-with-text-overlay",
+      "custom_css": [],
       "settings": {
         "full_width": true,
         "allow_transparent_header": true,

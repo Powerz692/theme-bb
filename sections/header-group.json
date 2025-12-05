@@ -14,33 +14,26 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "message": {
+        "message_JcTkVj": {
           "type": "message",
           "settings": {
-            "text": "Paiement sécurisé",
-            "url": ""
-          }
-        },
-        "message_XbYwYf": {
-          "type": "message",
-          "settings": {
-            "text": "Satisfait ou remboursé",
+            "text": "Livraison GRATUITE",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message",
-        "message_XbYwYf"
+        "message_JcTkVj"
       ],
+      "custom_css": [],
       "settings": {
         "enable_sticky": false,
         "autoplay": false,
         "cycle_speed": 6,
-        "text_size": "text-xs",
-        "navigation_mode": "scrolling",
+        "text_size": "text-base",
+        "navigation_mode": "arrows",
         "scrolling_speed": 10,
-        "background": "#4a90e2",
+        "background": "#820322",
         "background_gradient": "",
         "text_color": "#ffffff"
       }
