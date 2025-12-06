@@ -78,12 +78,12 @@
         "logo_ThbXef"
       ],
       "custom_css": [
-        ".section-full {padding-top: 0px; padding-bottom: 0px;}"
+        ".section-full {padding-top: 15px; padding-bottom: 0px;}"
       ],
       "settings": {
         "full_width": true,
         "stack_mobile": false,
-        "title": "",
+        "title": "Recommandé par :",
         "content": "",
         "text_alignment": "center",
         "items_per_row": 5,
