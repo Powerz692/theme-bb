@@ -77,10 +77,13 @@
         "logo_fjVfnh",
         "logo_ThbXef"
       ],
+      "custom_css": [
+        ".section-full {padding-top: 0px; padding-bottom: 0px;}"
+      ],
       "settings": {
         "full_width": true,
         "stack_mobile": false,
-        "title": "Recommandé par :",
+        "title": "",
         "content": "",
         "text_alignment": "center",
         "items_per_row": 5,
