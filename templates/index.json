@@ -93,8 +93,8 @@
         "heading_LnqFUP": {
           "type": "heading",
           "settings": {
-            "text": "Qui sommes-nous ?",
-            "heading_tag": "h3",
+            "text": "Le jouet sélectionné pour noël 2025",
+            "heading_tag": "h4",
             "text_color": "",
             "gradient": ""
           }
@@ -105,61 +105,6 @@
       ],
       "custom_css": [
         ".section-full {padding-top: 20px; padding-bottom: 20px;}"
-      ],
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "image_with_text_overlay_tUrJRw": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/411e45f0-96ed-49f8-8ef3-dd179a5a8689.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
-    "rich_text_QXqMJ7": {
-      "type": "rich-text",
-      "blocks": {
-        "subheading_dCqXRR": {
-          "type": "subheading",
-          "settings": {
-            "text": ""
-          }
-        },
-        "heading_gcwVkK": {
-          "type": "heading",
-          "settings": {
-            "text": "Un mode d'infusion innovant et indolore",
-            "heading_tag": "h3",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "richtext_kzMpxh": {
-          "type": "richtext",
-          "settings": {
-            "content": ""
-          }
-        }
-      },
-      "block_order": [
-        "subheading_dCqXRR",
-        "heading_gcwVkK",
-        "richtext_kzMpxh"
       ],
       "settings": {
         "full_width": true,
@@ -1054,8 +999,6 @@
     "image-with-text-overlay",
     "logo_list_4BjWGF",
     "rich_text_c9UmPD",
-    "image_with_text_overlay_tUrJRw",
-    "rich_text_QXqMJ7",
     "rich_text_zq9jyR",
     "trust_pilot_reviews_AxNB3A",
     "multi_column_BKPLPt",
