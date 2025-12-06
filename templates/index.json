@@ -98,20 +98,6 @@
     },
     "rich_text_c9UmPD": {
       "type": "rich-text",
-      "blocks": {
-        "heading_JGUWbW": {
-          "type": "heading",
-          "settings": {
-            "text": "Qui sommes-nous ?",
-            "heading_tag": "h2",
-            "text_color": "#000000",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_JGUWbW"
-      ],
       "custom_css": [
         ".section-full {padding-top: 10px; padding-bottom: 10px;}"
       ],
@@ -132,6 +118,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/9fb7e262-dd30-4bbe-a0f5-4bdf3856c2ca.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
