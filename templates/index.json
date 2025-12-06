@@ -60,21 +60,13 @@
             "logo_width": 160,
             "link": ""
           }
-        },
-        "logo_jQXXfA": {
-          "type": "logo",
-          "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
         }
       },
       "block_order": [
         "logo_A964Gc",
         "logo_PwVxki",
         "logo_pCMLRf",
-        "logo_fjVfnh",
-        "logo_jQXXfA"
+        "logo_fjVfnh"
       ],
       "custom_css": [
         ".section-full {padding-top: 25px; padding-bottom: 0px;}"
