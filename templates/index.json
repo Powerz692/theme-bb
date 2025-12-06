@@ -79,7 +79,7 @@
       ],
       "settings": {
         "full_width": true,
-        "stack_mobile": true,
+        "stack_mobile": false,
         "title": "Recommandé par :",
         "content": "",
         "text_alignment": "center",
