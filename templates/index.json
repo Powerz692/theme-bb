@@ -128,7 +128,7 @@
             "image_rotation_degrees": -2,
             "subheading": "",
             "title": "",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "content": "",
             "button_url": "",
             "button_text": ""
           }
@@ -136,6 +136,9 @@
       },
       "block_order": [
         "item_fEn9gY"
+      ],
+      "custom_css": [
+        ".section-full {padding-top: 0px; padding-bottom: 0px;}"
       ],
       "name": "Multiple images with text",
       "settings": {
