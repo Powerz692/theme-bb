@@ -94,7 +94,7 @@
           "type": "heading",
           "settings": {
             "text": "Le jouet numéro 1 pour noël 2025",
-            "heading_tag": "h3",
+            "heading_tag": "h4",
             "text_color": "",
             "gradient": ""
           }
@@ -140,7 +140,7 @@
           "type": "heading",
           "settings": {
             "text": "Pourquoi ce jouet ?",
-            "heading_tag": "h2",
+            "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
           }
