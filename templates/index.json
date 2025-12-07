@@ -87,20 +87,6 @@
         "logo_item_border": ""
       }
     },
-    "rich_text_c9UmPD": {
-      "type": "rich-text",
-      "custom_css": [
-        ".section-full {padding-top: 10px; padding-bottom: 10px;}"
-      ],
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "image_with_text_overlay_x4eBpd": {
       "type": "image-with-text-overlay",
       "custom_css": [],
@@ -1048,10 +1034,9 @@
   "order": [
     "image-with-text-overlay",
     "logo_list_4BjWGF",
-    "rich_text_c9UmPD",
-    "image_with_text_overlay_x4eBpd",
-    "rich_text_C4t6Tf",
     "image_with_text_overlay_CfrXjQ",
+    "rich_text_C4t6Tf",
+    "image_with_text_overlay_x4eBpd",
     "rich_text_zq9jyR",
     "trust_pilot_reviews_AxNB3A",
     "multi_column_BKPLPt",
