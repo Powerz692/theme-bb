@@ -141,8 +141,8 @@
         "heading_Gpfkyj": {
           "type": "heading",
           "settings": {
-            "text": "Heading",
-            "heading_tag": "h1",
+            "text": "Pourquoi ce jouet ?",
+            "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
           }
@@ -150,6 +150,9 @@
       },
       "block_order": [
         "heading_Gpfkyj"
+      ],
+      "custom_css": [
+        ".section-full {padding-top: 10px; padding-bottom: 10px;}"
       ],
       "name": "Rich text",
       "settings": {
