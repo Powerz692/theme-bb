@@ -89,20 +89,6 @@
     },
     "rich_text_c9UmPD": {
       "type": "rich-text",
-      "blocks": {
-        "heading_LnqFUP": {
-          "type": "heading",
-          "settings": {
-            "text": "Le jouet numéro 1 pour noël 2025",
-            "heading_tag": "h4",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_LnqFUP"
-      ],
       "custom_css": [
         ".section-full {padding-top: 10px; padding-bottom: 10px;}"
       ],
@@ -124,8 +110,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Design_sans_titre_14.jpg",
-        "mobile_image": "shopify://shop_images/Design_sans_titre_14.jpg",
+        "image": "shopify://shop_images/Le_jouet_selectionne_par_Kidilou_pour_Noel..jpg",
+        "mobile_image": "shopify://shop_images/Le_jouet_selectionne_par_Kidilou_pour_Noel..jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
