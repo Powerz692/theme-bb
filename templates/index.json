@@ -135,6 +135,32 @@
         "overlay_opacity": 0
       }
     },
+    "rich_text_C4t6Tf": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Gpfkyj": {
+          "type": "heading",
+          "settings": {
+            "text": "Heading",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_Gpfkyj"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "rich_text_zq9jyR": {
       "type": "rich-text",
       "blocks": {
@@ -1020,6 +1046,7 @@
     "logo_list_4BjWGF",
     "rich_text_c9UmPD",
     "image_with_text_overlay_x4eBpd",
+    "rich_text_C4t6Tf",
     "rich_text_zq9jyR",
     "trust_pilot_reviews_AxNB3A",
     "multi_column_BKPLPt",
