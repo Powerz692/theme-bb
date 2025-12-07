@@ -117,9 +117,7 @@
     },
     "image_with_text_overlay_x4eBpd": {
       "type": "image-with-text-overlay",
-      "custom_css": [
-        ".section-full {padding-top: 0px; padding-bottom: 0px;}"
-      ],
+      "custom_css": [],
       "name": "Image with text overlay",
       "settings": {
         "full_width": true,
