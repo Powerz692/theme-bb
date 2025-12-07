@@ -170,11 +170,13 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/d8126006-2d07-482d-ab98-9f6557a8005f.png",
+        "mobile_image": "shopify://shop_images/d8126006-2d07-482d-ab98-9f6557a8005f.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 0
       }
     },
     "rich_text_zq9jyR": {
