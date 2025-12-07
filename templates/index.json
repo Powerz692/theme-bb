@@ -26,10 +26,10 @@
         "overlay_opacity": 0
       }
     },
-    "logo_list_4BjWGF": {
+    "logo_list_kzJwXX": {
       "type": "logo-list",
       "blocks": {
-        "logo_A964Gc": {
+        "logo_394Yfz": {
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/19baed41-5a17-470a-9d48-381ee29781e0.png",
@@ -37,43 +37,41 @@
             "link": ""
           }
         },
-        "logo_PwVxki": {
+        "logo_QwmCh4": {
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/dcdf0d2f-551c-4f86-99dc-4a2627a471c7.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_NnCYPh": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/6204ef70-f1a9-4939-9e25-1037791f187e_1.png",
             "logo_width": 300,
             "link": ""
           }
         },
-        "logo_pCMLRf": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/6204ef70-f1a9-4939-9e25-1037791f187e_1.png",
-            "logo_width": 150,
-            "link": ""
-          }
-        },
-        "logo_fjVfnh": {
+        "logo_tiEVhQ": {
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/5f09805f-f264-41d6-bd58-42ca390edcc5.png",
-            "logo_width": 160,
+            "logo_width": 300,
             "link": ""
           }
         }
       },
       "block_order": [
-        "logo_A964Gc",
-        "logo_PwVxki",
-        "logo_pCMLRf",
-        "logo_fjVfnh"
+        "logo_394Yfz",
+        "logo_QwmCh4",
+        "logo_NnCYPh",
+        "logo_tiEVhQ"
       ],
-      "custom_css": [
-        ".section-full {padding-top: 25px; padding-bottom: 0px;}"
-      ],
+      "name": "Logo list",
       "settings": {
         "full_width": true,
-        "stack_mobile": false,
+        "stack_mobile": true,
         "title": "Recommandé par",
         "content": "",
         "text_alignment": "center",
@@ -83,21 +81,20 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
-        "logo_item_background": "#ffffff",
+        "logo_item_background": "",
         "logo_item_border": ""
       }
     },
-    "image_with_text_overlay_x4eBpd": {
+    "image_with_text_overlay_CfrXjQ": {
       "type": "image-with-text-overlay",
-      "custom_css": [],
       "name": "Image with text overlay",
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
-        "image_size": "sm",
-        "image": "shopify://shop_images/Design_sans_titre_14.jpg",
-        "mobile_image": "shopify://shop_images/Design_sans_titre_14.jpg",
+        "image_size": "auto",
+        "image": "shopify://shop_images/d8126006-2d07-482d-ab98-9f6557a8005f.png",
+        "mobile_image": "shopify://shop_images/d8126006-2d07-482d-ab98-9f6557a8005f.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -134,16 +131,17 @@
         "text_color": ""
       }
     },
-    "image_with_text_overlay_CfrXjQ": {
+    "image_with_text_overlay_x4eBpd": {
       "type": "image-with-text-overlay",
+      "custom_css": [],
       "name": "Image with text overlay",
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/d8126006-2d07-482d-ab98-9f6557a8005f.png",
-        "mobile_image": "shopify://shop_images/d8126006-2d07-482d-ab98-9f6557a8005f.png",
+        "image_size": "sm",
+        "image": "shopify://shop_images/Design_sans_titre_14.jpg",
+        "mobile_image": "shopify://shop_images/Design_sans_titre_14.jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -1033,7 +1031,7 @@
   },
   "order": [
     "image-with-text-overlay",
-    "logo_list_4BjWGF",
+    "logo_list_kzJwXX",
     "image_with_text_overlay_CfrXjQ",
     "rich_text_C4t6Tf",
     "image_with_text_overlay_x4eBpd",
