@@ -109,7 +109,7 @@
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
-        "image_size": "auto",
+        "image_size": "sm",
         "image": "shopify://shop_images/Design_sans_titre_14.jpg",
         "mobile_image": "shopify://shop_images/Design_sans_titre_14.jpg",
         "mobile_text_position": "place-self-center text-center",
