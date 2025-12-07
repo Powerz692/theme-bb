@@ -162,6 +162,21 @@
         "text_color": ""
       }
     },
+    "image_with_text_overlay_CfrXjQ": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
     "rich_text_zq9jyR": {
       "type": "rich-text",
       "blocks": {
@@ -1048,6 +1063,7 @@
     "rich_text_c9UmPD",
     "image_with_text_overlay_x4eBpd",
     "rich_text_C4t6Tf",
+    "image_with_text_overlay_CfrXjQ",
     "rich_text_zq9jyR",
     "trust_pilot_reviews_AxNB3A",
     "multi_column_BKPLPt",
