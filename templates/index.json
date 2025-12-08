@@ -88,13 +88,13 @@
         "logo_item_border": ""
       }
     },
-    "rich_text_mzRCDd": {
+    "rich_text_xhHW93": {
       "type": "rich-text",
       "blocks": {
-        "heading_rnjP9d": {
+        "heading_j6ebGy": {
           "type": "heading",
           "settings": {
-            "text": "",
+            "text": "Pourquoi les parents adorent ce jouet ?",
             "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
@@ -102,7 +102,7 @@
         }
       },
       "block_order": [
-        "heading_rnjP9d"
+        "heading_j6ebGy"
       ],
       "name": "Rich text",
       "settings": {
@@ -1047,7 +1047,7 @@
   "order": [
     "image-with-text-overlay",
     "logo_list_kzJwXX",
-    "rich_text_mzRCDd",
+    "rich_text_xhHW93",
     "image_with_text_overlay_hMrMiy",
     "rich_text_C4t6Tf",
     "image_with_text_overlay_x4eBpd",
