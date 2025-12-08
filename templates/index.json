@@ -193,6 +193,35 @@
         "text_color": ""
       }
     },
+    "rich_text_NQhHpC": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_KF3Uq4": {
+          "type": "heading",
+          "settings": {
+            "text": "8 parents sur 10 constatent moins de temps passé sur le smartphone",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_KF3Uq4"
+      ],
+      "custom_css": [
+        ".section-full {padding-top: 10px; padding-bottom: 10px;}"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "before_after_image_FdBphb": {
       "type": "before-after-image",
       "custom_css": [
@@ -1079,6 +1108,7 @@
     "rich_text_C4t6Tf",
     "rich_text_zq9jyR",
     "rich_text_Ac87nr",
+    "rich_text_NQhHpC",
     "before_after_image_FdBphb",
     "trust_pilot_reviews_AxNB3A",
     "multi_column_BKPLPt",
