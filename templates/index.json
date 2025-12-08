@@ -181,6 +181,51 @@
         "text_color": ""
       }
     },
+    "rich_text_Ac87nr": {
+      "type": "rich-text",
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "rich_text_fLLGPM": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_8N9MBE": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_ptqV4q": {
+          "type": "heading",
+          "settings": {
+            "text": "8 parents sur 10 constatent moins de temps passé sur le smartphone",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_8N9MBE",
+        "heading_ptqV4q"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "trust_pilot_reviews_AxNB3A": {
       "type": "Trust_Pilot_Reviews",
       "custom_css": [
@@ -1027,6 +1072,19 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "custom_liquid_DxktKA": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<main class=\"ba_main\">\n  <div class=\"container before_after\">\n    <div class=\"image-container\">\n      <div class=\"before_img\">\n        <img\n          class=\"image-before slider-image\"\n          src=\"https://localdentalclinics.com.au/blogs/1671520930.png\"\n          alt=\"color photo\"\n        >\n        <span\n          class=\"before_badge ba_badge\"\n          style=\"display: block;\"\n          >Before</span\n        >\n      </div>\n      <div class=\"after_img\">\n        <img\n          class=\"image-after slider-image\"\n          src=\"https://beaulieudental.co.uk/wp-content/uploads/2020/11/teeth-whitening-after-1.jpg\"\n          alt=\"black and white\"\n        >\n        <span class=\"after_badge ba_badge\" style=\"display: block;\"\n          >After</span\n        >\n      </div>\n    </div>\n    <input\n      type=\"range\"\n      min=\"0\"\n      max=\"100\"\n      value=\"50\"\n      aria-label=\"Percentage of before photo shown\"\n      class=\"ba-slider\"\n    >\n    <div class=\"slider-line\" aria-hidden=\"true\"></div>\n    <div class=\"slider-button\" aria-hidden=\"true\">\n      <svg\n        xmlns=\"http://www.w3.org/2000/svg\"\n        width=\"10\"\n        height=\"10\"\n        fill=\"#fff\"\n        viewBox=\"0 0 256 256\"\n      >\n        <rect width=\"256\" height=\"256\" fill=\"none\"></rect>\n        <line\n          x1=\"128\"\n          y1=\"40\"\n          x2=\"128\"\n          y2=\"216\"\n          fill=\"none\"\n          stroke=\"currentColor\"\n          stroke-linecap=\"round\"\n          stroke-linejoin=\"round\"\n          stroke-width=\"16\"\n        ></line>\n        <line\n          x1=\"96\"\n          y1=\"128\"\n          x2=\"16\"\n          y2=\"128\"\n          fill=\"none\"\n          stroke=\"currentColor\"\n          stroke-linecap=\"round\"\n          stroke-linejoin=\"round\"\n          stroke-width=\"16\"\n        ></line>\n        <polyline class=\"before_arrow\"\n          points=\"48 160 16 128 48 96\"\n          fill=\"none\"\n          stroke=\"currentColor\"\n          stroke-linecap=\"round\"\n          stroke-linejoin=\"round\"\n          stroke-width=\"16\"\n        ></polyline>\n        <line\n          x1=\"160\"\n          y1=\"128\"\n          x2=\"240\"\n          y2=\"128\"\n          fill=\"none\"\n          stroke=\"currentColor\"\n          stroke-linecap=\"round\"\n          stroke-linejoin=\"round\"\n          stroke-width=\"16\"\n        ></line>\n        <polyline class=\"after_arrow\"\n          points=\"208 96 240 128 208 160\"\n          fill=\"none\"\n          stroke=\"currentColor\"\n          stroke-linecap=\"round\"\n          stroke-linejoin=\"round\"\n          stroke-width=\"16\"\n        ></polyline>\n      </svg>\n    </div>\n  </div>\n</main>\n\n<style>\n  .ba_main {\n    display: flex;\n    place-items: center;\n    flex-wrap: wrap;\n    gap: 30px;\n    padding: 0 5rem;\n    max-width: 1200px;\n    width: 100%;\n    margin: 50px auto;\n  }\n\n  img {\n    display: block;\n    max-width: 100%;\n  }\n\n  .container {\n    display: grid;\n    position: relative;\n    overflow: hidden;\n    border-radius: 1rem;\n    --position: 50%;\n    width: 50%;\n    margin: 0 auto;\n  }\n\n  .image-container {\n    max-width: 1200px;\n  }\n\n  .before_badge {\n    z-index: 99 !important;\n    position: absolute;\n    bottom: 15px;\n    left: 15px;\n    background: #fff;\n    padding: 0 5px;\n    border-radius: 5px;\n    color: #000;\n  }\n\n  .after_badge {\n    z-index: 99 !important;\n    position: absolute;\n    bottom: 15px;\n    right: 15px;\n    background: #fff;\n    padding: 0 5px;\n    border-radius: 5px;\n    color: #000;\n  }\n\n  .slider-image {\n    width: 100%;\n    height: 100%;\n    object-fit: cover;\n    object-position: left;\n    max-height: 500px;\n  }\n\n  .image-before {\n    position: absolute;\n    inset: 0;\n    width: var(--position);\n  }\n\n  .ba-slider {\n    position: absolute;\n    inset: 0;\n    cursor: pointer;\n    opacity: 0;\n    width: 100%;\n    height: 100%;\n  }\n\n  .ba-slider:focus-visible ~ .slider-button {\n    outline: 5px solid black;\n    outline-offset: 3px;\n  }\n\n  .slider-line {\n    position: absolute;\n    inset: 0;\n    width: .2rem;\n    height: 100%;\n    background-color: #fff;\n    left: var(--position);\n    transform: translateX(-50%);\n    pointer-events: none;\n  }\n\n  .slider-button {\n    position: absolute;\n    background-color: #ffffffb5 !important;\n    color: black;\n    padding: .5rem;\n    border-radius: 100vw;\n    display: grid;\n    place-items: center;\n    top: 50%;\n    left: var(--position);\n    transform: translate(-50%, -50%);\n    pointer-events: none;\n    box-shadow: 1px 1px 1px hsl(0, 50%, 2%, .5);\nwidth: 10px;\nheight: 40px;\n  }\n\n  @media only screen and (max-width: 768px) {\n    .container {\n      width: 100%;\n    }\n    .ba_main {\n      padding: 0 20px;\n    }\n  }\n</style>\n\n<script>\n  document.addEventListener(\"DOMContentLoaded\", function () {\n    const container = document.querySelector(\".before_after\");\n    const slider = document.querySelector(\".ba-slider\");\n\n    slider.addEventListener(\"input\", (e) => {\n      container.style.setProperty(\"--position\", `${e.target.value}%`);\n    });\n  });\n</script>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -1036,6 +1094,9 @@
     "image_with_text_overlay_hMrMiy",
     "rich_text_C4t6Tf",
     "rich_text_zq9jyR",
+    "rich_text_Ac87nr",
+    "rich_text_fLLGPM",
+    "custom_liquid_DxktKA",
     "trust_pilot_reviews_AxNB3A",
     "multi_column_BKPLPt",
     "featured-product",
