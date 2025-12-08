@@ -225,7 +225,7 @@
     "before_after_image_FdBphb": {
       "type": "before-after-image",
       "custom_css": [
-        ".section-full {padding-top: 0px; padding-bottom: 0px;}"
+        ".section-full {padding-top: 0px; padding-bottom: 25px;}"
       ],
       "name": "Before/after image",
       "settings": {
