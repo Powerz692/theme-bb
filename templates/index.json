@@ -95,7 +95,7 @@
           "type": "heading",
           "settings": {
             "text": "Pourquoi les parents adorent ce jouet ?",
-            "heading_tag": "h2",
+            "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
           }
