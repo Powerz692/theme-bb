@@ -17,8 +17,8 @@
         "allow_transparent_header": true,
         "enable_parallax": false,
         "image_size": "md",
-        "image": "shopify://shop_images/Moins_d_ecrans_plus_d_aventures_2.jpg",
-        "mobile_image": "shopify://shop_images/Moins_d_ecrans_plus_d_aventures_2.jpg",
+        "image": "shopify://shop_images/Moins_d_ecrans_plus_d_aventures_3.jpg",
+        "mobile_image": "shopify://shop_images/Moins_d_ecrans_plus_d_aventures_3.jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -85,7 +85,33 @@
         "logo_item_border": ""
       }
     },
-    "image_with_text_overlay_CfrXjQ": {
+    "rich_text_mzRCDd": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_rnjP9d": {
+          "type": "heading",
+          "settings": {
+            "text": "",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_rnjP9d"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_hMrMiy": {
       "type": "image-with-text-overlay",
       "name": "Image with text overlay",
       "settings": {
@@ -104,20 +130,6 @@
     },
     "rich_text_C4t6Tf": {
       "type": "rich-text",
-      "blocks": {
-        "heading_Gpfkyj": {
-          "type": "heading",
-          "settings": {
-            "text": "Pourquoi ce jouet ?",
-            "heading_tag": "h3",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_Gpfkyj"
-      ],
       "custom_css": [
         ".section-full {padding-top: 15px; padding-bottom: 15px;}"
       ],
@@ -1032,7 +1044,8 @@
   "order": [
     "image-with-text-overlay",
     "logo_list_kzJwXX",
-    "image_with_text_overlay_CfrXjQ",
+    "rich_text_mzRCDd",
+    "image_with_text_overlay_hMrMiy",
     "rich_text_C4t6Tf",
     "image_with_text_overlay_x4eBpd",
     "rich_text_zq9jyR",
