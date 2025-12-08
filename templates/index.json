@@ -149,24 +149,6 @@
         "text_color": ""
       }
     },
-    "image_with_text_overlay_x4eBpd": {
-      "type": "image-with-text-overlay",
-      "custom_css": [],
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "sm",
-        "image": "shopify://shop_images/Design_sans_titre_14.jpg",
-        "mobile_image": "shopify://shop_images/Design_sans_titre_14.jpg",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
     "rich_text_zq9jyR": {
       "type": "rich-text",
       "blocks": {
@@ -1053,7 +1035,6 @@
     "rich_text_xhHW93",
     "image_with_text_overlay_hMrMiy",
     "rich_text_C4t6Tf",
-    "image_with_text_overlay_x4eBpd",
     "rich_text_zq9jyR",
     "trust_pilot_reviews_AxNB3A",
     "multi_column_BKPLPt",
