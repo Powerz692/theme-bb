@@ -196,14 +196,14 @@
     "before_after_image_FdBphb": {
       "type": "before-after-image",
       "custom_css": [
-        ".section-full {padding-top: 10px; padding-bottom: 0px;}"
+        ".section-full {padding-top: 0px; padding-bottom: 0px;}"
       ],
       "name": "Before/after image",
       "settings": {
         "full_width": true,
         "subheading": "",
-        "title": "Encourage le jeu dehors et limite naturellement les écrans",
-        "content": "<p><strong>8 parents sur 10 constatent moins de temps passé sur le smartphone</strong></p>",
+        "title": "",
+        "content": "",
         "before_image": "shopify://shop_images/614b4050-404f-49fa-bb9b-39cd45e90c7e.png",
         "before_image_mobile": "shopify://shop_images/614b4050-404f-49fa-bb9b-39cd45e90c7e.png",
         "after_image": "shopify://shop_images/625324d7-3f56-4219-913a-fbc4ed7f4667.png",
