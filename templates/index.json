@@ -104,6 +104,9 @@
       "block_order": [
         "heading_j6ebGy"
       ],
+      "custom_css": [
+        ".section-full {padding-top: 0px; padding-bottom: 10px;}"
+      ],
       "name": "Rich text",
       "settings": {
         "full_width": true,
