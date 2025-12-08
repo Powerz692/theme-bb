@@ -69,13 +69,13 @@
         "logo_tiEVhQ"
       ],
       "custom_css": [
-        ".section-full {padding-top: 15px; padding-bottom: 0px;}"
+        ".section-full {padding-top: 20px; padding-bottom: 0px;}"
       ],
       "name": "Logo list",
       "settings": {
         "full_width": true,
         "stack_mobile": true,
-        "title": "Recommandé par",
+        "title": "Recommandé par :",
         "content": "",
         "text_alignment": "center",
         "items_per_row": 5,
