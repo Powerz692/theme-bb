@@ -68,6 +68,9 @@
         "logo_NnCYPh",
         "logo_tiEVhQ"
       ],
+      "custom_css": [
+        ".section-full {padding-top: 15px; padding-bottom: 0px;}"
+      ],
       "name": "Logo list",
       "settings": {
         "full_width": true,
