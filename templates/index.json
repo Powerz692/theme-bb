@@ -389,26 +389,27 @@
     "multi_column_BKPLPt": {
       "type": "multi-column",
       "blocks": {
+        "item_JJLm4U": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_16.jpg",
+            "column_size": "3",
+            "title": "Marie",
+            "heading_tag": "h4",
+            "content": "<p>\"Super amusant, mes neveux ont adoré 😊<br/></p><p>Ça rend leurs jeux beaucoup plus créatifs et ils ne s’en lassent pas. En plus, la batterie tient vraiment bien, ils peuvent jouer longtemps sans interruption.\"<br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_7BdeiK": {
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/Design_sans_titre_15.jpg",
             "column_size": "3",
             "title": "Julie",
-            "heading_tag": "h3",
-            "content": "<p>\"J’ai offert ces talkies-walkies vidéo à mes enfants et ils ont adoré. Ça a complètement boosté leur imagination : missions secrètes, voix rigolotes, filtres… ils parlent entre le salon, la chambre et même dehors sans souci. Le mode vidéo change vraiment tout. Ils jouent des heures ensemble, et moi j’ai enfin des moments au calme.\"</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_JJLm4U": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Marie",
             "heading_tag": "h4",
-            "content": "<p><em>\"J'avais peur que ce soit douloureux, mais pas du tout ! Je ne supportais plus mes rides du front et pensais à un traitement en clinique, puis j’ai essayé Ceralyne. Je suis tellement heureuse !\"</em></p>",
+            "content": "<p>\"J’ai offert ces talkies-walkies vidéo à mes enfants et ils ont adoré. Ça a complètement boosté leur imagination : missions secrètes, voix rigolotes, filtres… ils parlent entre le salon, la chambre et même dehors sans souci. Le mode vidéo change vraiment tout. Ils jouent des heures ensemble, et moi j’ai enfin des moments au calme.\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -497,18 +498,57 @@
             "link_text": "",
             "link_style": "link"
           }
+        },
+        "item_fEUndN": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_xWVhf8": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_ktnpm6": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
         }
       },
       "block_order": [
-        "item_7BdeiK",
         "item_JJLm4U",
+        "item_7BdeiK",
         "item_GECyWQ",
         "item_MwJML3",
         "item_p6MkDp",
         "item_4yzaE8",
         "item_EwNkYx",
         "item_yViHK3",
-        "item_JUW7xR"
+        "item_JUW7xR",
+        "item_fEUndN",
+        "item_xWVhf8",
+        "item_ktnpm6"
       ],
       "custom_css": [
         ".section-full {padding-top: 20px; padding-bottom: 20px;}"
