@@ -656,21 +656,6 @@
             "size_chart_page": ""
           }
         },
-        "quantity-selector": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
-        "buy-buttons": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_payment_button": false,
-            "show_gift_card_recipient": true,
-            "atc_button_background": "#f0c417",
-            "atc_button_text_color": "#1a1a1a",
-            "payment_button_background": "#f0c417",
-            "payment_button_text_color": ""
-          }
-        },
         "image_NnVtjL": {
           "type": "image",
           "settings": {
@@ -692,8 +677,6 @@
         "separator",
         "description",
         "variant-picker",
-        "quantity-selector",
-        "buy-buttons",
         "image_NnVtjL"
       ],
       "custom_css": [
@@ -713,8 +696,24 @@
         "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
-        "input_background": "rgba(0,0,0,0)",
+        "input_background": "#ffffff",
         "input_text_color": ""
+      }
+    },
+    "custom_liquid_ztW6na": {
+      "type": "custom-liquid",
+      "custom_css": [
+        ".section-full {padding-top: 0px; padding-bottom: 25px;}"
+      ],
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<style>\n  .features-wrapper {\n    display: flex;\n    justify-content: center;\n  }\n\n  .features-container {\n    display: flex;\n    flex-wrap: wrap;\n    gap: 20px;\n    max-width: 600px;\n  }\n\n  .feature-item {\n    width: calc(50% - 10px);\n    display: flex;\n    align-items: center;\n    gap: 10px;\n  }\n\n  .icon-wrapper {\n    width: 40px;\n    height: 40px;\n    background-color: #F5F7F8;\n    border-radius: 50%;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    flex-shrink: 0;\n  }\n\n  .icon-wrapper img {\n    width: 22px;\n    height: 22px;\n    display: block;\n  }\n\n  .text-wrapper { display: flex; flex-direction: column; }\n  .feature-title { font-weight: 700; color: #242424; margin: 0; font-size: 14px; }\n  .feature-subtitle { font-weight: 400; color: #424242; margin: 0; font-size: 12px; }\n\n  @media (max-width: 480px) {\n    .feature-item { width: calc(50% - 10px); }\n    .feature-title { font-size: 12px; }\n    .feature-subtitle { font-size: 10px; }\n    .icon-wrapper { width: 36px; height: 36px; }\n    .icon-wrapper img { width: 20px; height: 20px; }\n  }\n\n  /* language switch */\n  html[lang=\"fr\"] .features-en { display: none !important; }\n  html[lang=\"en\"] .features-fr { display: none !important; }\n</style>\n\n<!-- FRENCH VERSION -->\n<div class=\"features-wrapper features-fr\">\n  <div class=\"features-container\">\n\n    <div class=\"feature-item\">\n      <div class=\"icon-wrapper\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0891/4871/9429/files/NOUVEAU-SHIPPING1.svg?v=1744585896\" alt=\"\">\n      </div>\n      <div class=\"text-wrapper\">\n        <p class=\"feature-title\">Livraison gratuite</p>\n        <p class=\"feature-subtitle\">Expédition en 24h</p>\n      </div>\n    </div>\n\n    <div class=\"feature-item\">\n      <div class=\"icon-wrapper\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0891/4871/9429/files/NOUVEAU-check-shield.svg?v=1744586491\" alt=\"\">\n      </div>\n      <div class=\"text-wrapper\">\n        <p class=\"feature-title\">Paiement sécurisé</p>\n        <p class=\"feature-subtitle\">via SSL & 3D Secure</p>\n      </div>\n    </div>\n\n    <div class=\"feature-item\">\n      <div class=\"icon-wrapper\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0891/4871/9429/files/NOUVEAU-RETOUR.svg?v=1744585755\" alt=\"\">\n      </div>\n      <div class=\"text-wrapper\">\n        <p class=\"feature-title\">Satisfait ou remboursé</p>\n        <p class=\"feature-subtitle\">30 jours pour essayer</p>\n      </div>\n    </div>\n\n    <div class=\"feature-item\">\n      <div class=\"icon-wrapper\">\n        <img src=\"https://em-content.zobj.net/source/apple/391/flag-france_1f1eb-1f1f7.png\" alt=\"\">\n      </div>\n      <div class=\"text-wrapper\">\n        <p class=\"feature-title\">SAV Français</p>\n        <p class=\"feature-subtitle\">Disponible 7j/7</p>\n      </div>\n    </div>\n\n  </div>\n</div>\n\n\n<!-- ENGLISH VERSION -->\n<div class=\"features-wrapper features-en\">\n  <div class=\"features-container\">\n\n    <div class=\"feature-item\">\n      <div class=\"icon-wrapper\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0891/4871/9429/files/NOUVEAU-SHIPPING1.svg?v=1744585896\" alt=\"\">\n      </div>\n      <div class=\"text-wrapper\">\n        <p class=\"feature-title\">Free delivery</p>\n        <p class=\"feature-subtitle\">Ships in 24h</p>\n      </div>\n    </div>\n\n    <div class=\"feature-item\">\n      <div class=\"icon-wrapper\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0891/4871/9429/files/NOUVEAU-check-shield.svg?v=1744586491\" alt=\"\">\n      </div>\n      <div class=\"text-wrapper\">\n        <p class=\"feature-title\">Secure payment</p>\n        <p class=\"feature-subtitle\">SSL & 3D Secure</p>\n      </div>\n    </div>\n\n    <div class=\"feature-item\">\n      <div class=\"icon-wrapper\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0891/4871/9429/files/NOUVEAU-RETOUR.svg?v=1744585755\" alt=\"\">\n      </div>\n      <div class=\"text-wrapper\">\n        <p class=\"feature-title\">Money-back guarantee</p>\n        <p class=\"feature-subtitle\">30 days risk-free</p>\n      </div>\n    </div>\n\n    <div class=\"feature-item\">\n      <div class=\"icon-wrapper\">\n        <img src=\"https://em-content.zobj.net/source/apple/391/flag-france_1f1eb-1f1f7.png\" alt=\"\">\n      </div>\n      <div class=\"text-wrapper\">\n        <p class=\"feature-title\">French support</p>\n        <p class=\"feature-subtitle\">Available 7/7</p>\n      </div>\n    </div>\n\n  </div>\n</div>",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "tabs_Waa9zt": {
@@ -1168,6 +1167,7 @@
     "trust_pilot_reviews_rhgAFF",
     "multi_column_BKPLPt",
     "featured-product",
+    "custom_liquid_ztW6na",
     "tabs_Waa9zt",
     "multi_column_wTJTNc",
     "rich_text_JEkECK",
