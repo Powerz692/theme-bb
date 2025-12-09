@@ -402,6 +402,32 @@
             "link_style": "link"
           }
         },
+        "item_EwNkYx": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_21.jpg",
+            "column_size": "3",
+            "title": "Marion",
+            "heading_tag": "h4",
+            "content": "<p>\"Ces talkies-walkies vidéo sont géniaux ! Les enfants les utilisent partout dans la maison pour se parler d’une pièce à l’autre. L’image est nette, le son est bon et la batterie tient longtemps. Une super façon pour eux de communiquer et s’amuser en toute sécurité.\"<br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_xWVhf8": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_25.jpg",
+            "column_size": "3",
+            "title": "Lina",
+            "heading_tag": "h4",
+            "content": "<p>\"Très bonne qualité. L’image est nette quand la vidéo est activée et le son est clair. C’est très simple à utiliser et vaut largement son prix. Les enfants adorent jouer avec.\"<br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_GECyWQ": {
           "type": "item",
           "settings": {
@@ -467,19 +493,6 @@
             "link_style": "link"
           }
         },
-        "item_EwNkYx": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Design_sans_titre_21.jpg",
-            "column_size": "3",
-            "title": "Marion",
-            "heading_tag": "h4",
-            "content": "<p>\"Ces talkies-walkies vidéo sont géniaux ! Les enfants les utilisent partout dans la maison pour se parler d’une pièce à l’autre. L’image est nette, le son est bon et la batterie tient longtemps. Une super façon pour eux de communiquer et s’amuser en toute sécurité.\"<br/><br/></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_yViHK3": {
           "type": "item",
           "settings": {
@@ -519,19 +532,6 @@
             "link_style": "link"
           }
         },
-        "item_xWVhf8": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Design_sans_titre_25.jpg",
-            "column_size": "3",
-            "title": "Lina",
-            "heading_tag": "h4",
-            "content": "<p>\"Très bonne qualité. L’image est nette quand la vidéo est activée et le son est clair. C’est très simple à utiliser et vaut largement son prix. Les enfants adorent jouer avec.\"<br/><br/></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_ktnpm6": {
           "type": "item",
           "settings": {
@@ -548,16 +548,16 @@
       },
       "block_order": [
         "item_JJLm4U",
+        "item_EwNkYx",
+        "item_xWVhf8",
         "item_GECyWQ",
         "item_7BdeiK",
         "item_MwJML3",
         "item_p6MkDp",
         "item_4yzaE8",
-        "item_EwNkYx",
         "item_yViHK3",
         "item_JUW7xR",
         "item_fEUndN",
-        "item_xWVhf8",
         "item_ktnpm6"
       ],
       "custom_css": [
