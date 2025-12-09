@@ -396,7 +396,7 @@
             "column_size": "3",
             "title": "Marie",
             "heading_tag": "h4",
-            "content": "<p>\"Super amusant, mes neveux ont adoré 😊<br/></p><p>Ça rend leurs jeux beaucoup plus créatifs et ils ne s’en lassent pas. En plus, la batterie tient vraiment bien, ils peuvent jouer longtemps sans interruption.\"<br/><br/></p>",
+            "content": "<h6>\"Super amusant, mes neveux ont adoré 😊<br/></h6><h5>Ça rend leurs jeux beaucoup plus créatifs et ils ne s’en lassent pas. En plus, la batterie tient vraiment bien, ils peuvent jouer longtemps sans interruption.\"<br/><br/></h5>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -409,7 +409,7 @@
             "column_size": "3",
             "title": "Marion",
             "heading_tag": "h4",
-            "content": "<p>\"Ces talkies-walkies vidéo sont géniaux ! Les enfants les utilisent partout dans la maison pour se parler d’une pièce à l’autre. L’image est nette, le son est bon et la batterie tient longtemps. Une super façon pour eux de communiquer et s’amuser en toute sécurité.\"<br/><br/></p>",
+            "content": "<h6>\"Ces talkies-walkies vidéo sont géniaux ! Les enfants les utilisent partout dans la maison pour se parler d’une pièce à l’autre. L’image est nette, le son est bon et la batterie tient longtemps. Une super façon pour eux de communiquer et s’amuser en toute sécurité.\"<br/><br/></h6>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -422,7 +422,7 @@
             "column_size": "3",
             "title": "Lina",
             "heading_tag": "h4",
-            "content": "<p>\"Très bonne qualité. L’image est nette quand la vidéo est activée et le son est clair. C’est très simple à utiliser et vaut largement son prix. Les enfants adorent jouer avec.\"<br/><br/></p>",
+            "content": "<h6>\"Très bonne qualité. L’image est nette quand la vidéo est activée et le son est clair. C’est très simple à utiliser et vaut largement son prix. Les enfants adorent jouer avec.\"<br/><br/></h6>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -435,7 +435,7 @@
             "column_size": "3",
             "title": "Agathe",
             "heading_tag": "h4",
-            "content": "<p>\"Ces talkies-walkies sont très amusants et faciles à prendre en main. Le son est clair, l’image aussi, ce qui rend les échanges vraiment sympas. La portée est vraiment correcte, surtout en extérieur, ce qui permet de jouer sans coupure. Un jouet simple, efficace et très apprécié.\"<br/><br/></p>",
+            "content": "<h6>\"Ces talkies-walkies sont très amusants et faciles à prendre en main. Le son est clair, l’image aussi, ce qui rend les échanges vraiment sympas. La portée est vraiment correcte, surtout en extérieur, ce qui permet de jouer sans coupure. Un jouet simple, efficace et très apprécié.\"<br/><br/></h6>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -448,7 +448,7 @@
             "column_size": "3",
             "title": "Julie",
             "heading_tag": "h4",
-            "content": "<p>\"J’ai offert ces talkies-walkies vidéo à mes enfants et ils ont adoré. Ça a complètement boosté leur imagination : missions secrètes, voix rigolotes, filtres… ils parlent entre le salon, la chambre et même dehors sans souci. Le mode vidéo change vraiment tout. Ils jouent des heures ensemble, et moi j’ai enfin des moments au calme.\"</p>",
+            "content": "<h6>\"J’ai offert ces talkies-walkies vidéo à mes enfants et ils ont adoré. Ça a complètement boosté leur imagination : missions secrètes, voix rigolotes, filtres… ils parlent entre le salon, la chambre et même dehors sans souci. Le mode vidéo change vraiment tout. Ils jouent des heures ensemble, et moi j’ai enfin des moments au calme.\"</h6>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -461,7 +461,7 @@
             "column_size": "3",
             "title": "Mélanie",
             "heading_tag": "h4",
-            "content": "<p>\"Des talkies-walkies vraiment adorables. Ma fille discute avec son papa pendant de longues minutes sans se lasser. La taille est idéale pour les petites mains, et les couleurs rose et bleu sont très jolies.\"<br/><br/></p>",
+            "content": "<h6>\"Des talkies-walkies vraiment adorables. Ma fille discute avec son papa pendant de longues minutes sans se lasser. La taille est idéale pour les petites mains, et les couleurs rose et bleu sont très jolies.\"<br/><br/></h6>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -474,7 +474,7 @@
             "column_size": "3",
             "title": "Sylvie",
             "heading_tag": "h4",
-            "content": "<p>\"J’ai acheté ces talkies-walkies vidéo pour mes enfants et ils ont adoré ! Le packaging est très joli et les talkies rose et bleu sont encore plus mignons en vrai. Un jouet qui stimule l’imagination, parfait comme cadeau. Je recommande !\"<br/><br/></p>",
+            "content": "<h6>\"J’ai acheté ces talkies-walkies vidéo pour mes enfants et ils ont adoré ! Le packaging est très joli et les talkies rose et bleu sont encore plus mignons en vrai. Un jouet qui stimule l’imagination, parfait comme cadeau. Je recommande !\"<br/><br/></h6>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -487,7 +487,7 @@
             "column_size": "3",
             "title": "Sonia",
             "heading_tag": "h4",
-            "content": "<p>\"Comparé aux talkies-walkies classiques, celui-ci est vraiment innovant : les enfants peuvent se voir en vidéo en plus de s’entendre, ce qu’ils adorent. Le rose et le bleu conviennent parfaitement à ma fille et mon fils. Léger, sûr pour les petites mains, facile à utiliser, avec un son et une image clairs. La batterie rechargeable est très pratique et tient longtemps.\"<br/><br/></p>",
+            "content": "<h6>\"Comparé aux talkies-walkies classiques, celui-ci est vraiment innovant : les enfants peuvent se voir en vidéo en plus de s’entendre, ce qu’ils adorent. Le rose et le bleu conviennent parfaitement à ma fille et mon fils. Léger, sûr pour les petites mains, facile à utiliser, avec un son et une image clairs. La batterie rechargeable est très pratique et tient longtemps.\"<br/><br/></h6>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -500,7 +500,7 @@
             "column_size": "3",
             "title": "Carla",
             "heading_tag": "h4",
-            "content": "<p>\"Ces talkies-walkies vidéo sont très mignons et faciles à utiliser. Les enfants adorent se voir à l’écran et ont beaucoup aimé les stickers pour les personnaliser. Le son et l’image sont clairs, la batterie tient bien et ça fonctionne même entre étages.\"<br/><br/><br/><br/></p>",
+            "content": "<h6>\"Ces talkies-walkies vidéo sont très mignons et faciles à utiliser. Les enfants adorent se voir à l’écran et ont beaucoup aimé les stickers pour les personnaliser. Le son et l’image sont clairs, la batterie tient bien et ça fonctionne même entre étages.\"<br/><br/><br/><br/></h6>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -513,7 +513,7 @@
             "column_size": "3",
             "title": "Ambre",
             "heading_tag": "h4",
-            "content": "<p>\"Ces talkies-walkies vidéo sont très amusants. Mes fils de 7 et 13 ans les adorent. L’image est nette pour le prix et la fonction vidéo fait vraiment la différence par rapport aux modèles classiques. La portée est suffisante pour la maison et le jardin, ils sont faciles à utiliser et à recharger. Le son est clair et le modèle bleu leur plaît beaucoup.\"<br/><br/></p>",
+            "content": "<h6>\"Ces talkies-walkies vidéo sont très amusants. Mes fils de 7 et 13 ans les adorent. L’image est nette pour le prix et la fonction vidéo fait vraiment la différence par rapport aux modèles classiques. La portée est suffisante pour la maison et le jardin, ils sont faciles à utiliser et à recharger. Le son est clair et le modèle bleu leur plaît beaucoup.\"<br/><br/></h6>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -526,7 +526,7 @@
             "column_size": "3",
             "title": "Barbara",
             "heading_tag": "h4",
-            "content": "<p>\"Ces talkies-walkies vidéo ont tout de suite accroché mes enfants. Ils aiment pouvoir se parler et se voir depuis différentes pièces de la maison ou le jardin. Le son est net, la batterie tient bien, et c’est une vraie alternative aux écrans habituels tout en leur permettant de jouer ensemble.\"<br/><br/></p>",
+            "content": "<h6>\"Ces talkies-walkies vidéo ont tout de suite accroché mes enfants. Ils aiment pouvoir se parler et se voir depuis différentes pièces de la maison ou le jardin. Le son est net, la batterie tient bien, et c’est une vraie alternative aux écrans habituels tout en leur permettant de jouer ensemble.\"<br/><br/></h6>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -539,7 +539,7 @@
             "column_size": "3",
             "title": "Camille",
             "heading_tag": "h4",
-            "content": "<p>Mon enfant et moi nous amusons beaucoup avec ces talkies-walkies vidéo. Grâce à la fonction vidéo, il peut me montrer ce qu’il dessine ou fabrique sans que j’aie à me déplacer. La batterie tient très bien, le produit est solide, et je pense en offrir d’autres aux enfants de mes amis pour Noël.<br/><br/><br/></p>",
+            "content": "<h6>Mon enfant et moi nous amusons beaucoup avec ces talkies-walkies vidéo. Grâce à la fonction vidéo, il peut me montrer ce qu’il dessine ou fabrique sans que j’aie à me déplacer. La batterie tient très bien, le produit est solide, et je pense en offrir d’autres aux enfants de mes amis pour Noël.<br/><br/><br/></h6>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
