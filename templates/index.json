@@ -707,7 +707,7 @@
     "custom_liquid_qCwp9A": {
       "type": "custom-liquid",
       "custom_css": [
-        ".section-full {padding-top: 0px; padding-bottom: 35px;}"
+        ".section-full {padding-top: 0px; padding-bottom: 5px;}"
       ],
       "name": "Custom Liquid",
       "settings": {
@@ -761,6 +761,9 @@
         "tab_qpeWfc",
         "tab_GUd9zE",
         "tab_aQDKUA"
+      ],
+      "custom_css": [
+        ".section-full {padding-top: 0px; padding-bottom: 25px;}"
       ],
       "settings": {
         "full_width": true,
