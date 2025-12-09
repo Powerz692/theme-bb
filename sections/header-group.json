@@ -34,20 +34,12 @@
             "text": "Offre de noël",
             "url": ""
           }
-        },
-        "message_7d4Yry": {
-          "type": "message",
-          "settings": {
-            "text": "",
-            "url": ""
-          }
         }
       },
       "block_order": [
         "message_JcTkVj",
         "message_xBBUPG",
-        "message_xM3LrR",
-        "message_7d4Yry"
+        "message_xM3LrR"
       ],
       "custom_css": [],
       "settings": {
