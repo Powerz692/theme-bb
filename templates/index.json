@@ -457,10 +457,11 @@
         "item_4yzaE8": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_20.jpg",
             "column_size": "3",
-            "title": "Brigitte",
+            "title": "Sonia",
             "heading_tag": "h4",
-            "content": "<p><em>\"Je détestais les rides et la peau relâchée sur mon cou, et le seul produit qui a vraiment fait la différence, c’est celui-ci. Ma peau est tellement lisse et ferme que le résultat est bluffant !\"</em></p>",
+            "content": "<p>\"Comparé aux talkies-walkies classiques, celui-ci est vraiment innovant : les enfants peuvent se voir en vidéo en plus de s’entendre, ce qu’ils adorent. Le rose et le bleu conviennent parfaitement à ma fille et mon fils. Léger, sûr pour les petites mains, facile à utiliser, avec un son et une image clairs. La batterie rechargeable est très pratique et tient longtemps.\"<br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
