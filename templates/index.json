@@ -402,19 +402,6 @@
             "link_style": "link"
           }
         },
-        "item_7BdeiK": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Design_sans_titre_15.jpg",
-            "column_size": "3",
-            "title": "Julie",
-            "heading_tag": "h4",
-            "content": "<p>\"J’ai offert ces talkies-walkies vidéo à mes enfants et ils ont adoré. Ça a complètement boosté leur imagination : missions secrètes, voix rigolotes, filtres… ils parlent entre le salon, la chambre et même dehors sans souci. Le mode vidéo change vraiment tout. Ils jouent des heures ensemble, et moi j’ai enfin des moments au calme.\"</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_GECyWQ": {
           "type": "item",
           "settings": {
@@ -423,6 +410,19 @@
             "title": "Agathe",
             "heading_tag": "h4",
             "content": "<p>\"Ces talkies-walkies sont très amusants et faciles à prendre en main. Le son est clair, l’image aussi, ce qui rend les échanges vraiment sympas. La portée est vraiment correcte, surtout en extérieur, ce qui permet de jouer sans coupure. Un jouet simple, efficace et très apprécié.\"<br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_7BdeiK": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_15.jpg",
+            "column_size": "3",
+            "title": "Julie",
+            "heading_tag": "h4",
+            "content": "<p>\"J’ai offert ces talkies-walkies vidéo à mes enfants et ils ont adoré. Ça a complètement boosté leur imagination : missions secrètes, voix rigolotes, filtres… ils parlent entre le salon, la chambre et même dehors sans souci. Le mode vidéo change vraiment tout. Ils jouent des heures ensemble, et moi j’ai enfin des moments au calme.\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -444,10 +444,11 @@
         "item_p6MkDp": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_19.jpg",
             "column_size": "3",
             "title": "Sylvie",
             "heading_tag": "h4",
-            "content": "<p><em>\"C’est incroyable ! Je n’aurais jamais cru que mes pattes d’oie disparaîtraient aussi rapidement et que l’application serait si simple\"</em></p>",
+            "content": "<p>\"J’ai acheté ces talkies-walkies vidéo pour mes enfants et ils ont adoré ! Le packaging est très joli et les talkies rose et bleu sont encore plus mignons en vrai. Un jouet qui stimule l’imagination, parfait comme cadeau. Je recommande !\"<br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -540,8 +541,8 @@
       },
       "block_order": [
         "item_JJLm4U",
-        "item_7BdeiK",
         "item_GECyWQ",
+        "item_7BdeiK",
         "item_MwJML3",
         "item_p6MkDp",
         "item_4yzaE8",
