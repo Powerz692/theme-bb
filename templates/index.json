@@ -509,10 +509,11 @@
         "item_fEUndN": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_24.jpg",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Barbara",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>\"Ces talkies-walkies vidéo ont tout de suite accroché mes enfants. Ils aiment pouvoir se parler et se voir depuis différentes pièces de la maison ou le jardin. Le son est net, la batterie tient bien, et c’est une vraie alternative aux écrans habituels tout en leur permettant de jouer ensemble.\"<br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -521,10 +522,11 @@
         "item_xWVhf8": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_25.jpg",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Lina",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>\"Très bonne qualité. L’image est nette quand la vidéo est activée et le son est clair. C’est très simple à utiliser et vaut largement son prix. Les enfants adorent jouer avec.\"<br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -533,10 +535,11 @@
         "item_ktnpm6": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_26.jpg",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Camille",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Mon enfant et moi nous amusons beaucoup avec ces talkies-walkies vidéo. Grâce à la fonction vidéo, il peut me montrer ce qu’il dessine ou fabrique sans que j’aie à me déplacer. La batterie tient très bien, le produit est solide, et je pense en offrir d’autres aux enfants de mes amis pour Noël.<br/><br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
