@@ -17,8 +17,8 @@
         "allow_transparent_header": true,
         "enable_parallax": false,
         "image_size": "md",
-        "image": "shopify://shop_images/Moins_d_ecrans_plus_d_aventures_3.jpg",
-        "mobile_image": "shopify://shop_images/Moins_d_ecrans_plus_d_aventures_3.jpg",
+        "image": "shopify://shop_images/Moins_d_ecrans_plus_d_aventures_5.jpg",
+        "mobile_image": "shopify://shop_images/Moins_d_ecrans_plus_d_aventures_5.jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -606,6 +606,17 @@
             "show_taxes_notice": false
           }
         },
+        "buy_buttons_38TF7b": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
         "image_pRggRB": {
           "type": "image",
           "disabled": true,
@@ -660,6 +671,7 @@
         "title",
         "badges",
         "price",
+        "buy_buttons_38TF7b",
         "image_pRggRB",
         "image_h9L7gC",
         "rating",

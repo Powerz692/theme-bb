@@ -17,13 +17,29 @@
         "message_JcTkVj": {
           "type": "message",
           "settings": {
-            "text": "Le jouet tendance pour Noël est disponible ! 🎁",
+            "text": "Livraison Gratuite",
+            "url": ""
+          }
+        },
+        "message_xBBUPG": {
+          "type": "message",
+          "settings": {
+            "text": "Paiement sécurisé",
+            "url": ""
+          }
+        },
+        "message_7d4Yry": {
+          "type": "message",
+          "settings": {
+            "text": "",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message_JcTkVj"
+        "message_JcTkVj",
+        "message_xBBUPG",
+        "message_7d4Yry"
       ],
       "custom_css": [],
       "settings": {
@@ -31,7 +47,7 @@
         "autoplay": false,
         "cycle_speed": 6,
         "text_size": "text-base",
-        "navigation_mode": "arrows",
+        "navigation_mode": "scrolling",
         "scrolling_speed": 10,
         "background": "#820322",
         "background_gradient": "",
