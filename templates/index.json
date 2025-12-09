@@ -726,40 +726,32 @@
         "tab_kNhjBC": {
           "type": "tab",
           "settings": {
-            "title": "Contenu du Kit Micro-Infusion Sérum Lift Pro",
-            "content": "<p>Chaque kit de Micro-Infusion est conçu pour un nombre précis de traitements. Les embouts à micro-aiguilles sont <strong>stériles et utilisables 3 fois maximum, ils doivent être nettoyer et desinfecté entre chaque utilisation</strong>, garantissant une hygiène irréprochable et des résultats optimaux.</p><p><strong>Contenu de chaque kit :</strong></p><ul><li><strong>Cure d’1 mois</strong> : 1 embouts stériles + 2 flacons de sérum (2 traitements)</li><li><strong>Cure de 2 mois</strong> : 2 embouts stériles + 4 flacons de sérum (4 traitements)</li><li><strong>Cure de 3 mois</strong> : 3 embouts stériles + 6 flacons de sérum (6 traitements)</li></ul><p></p>",
+            "title": "Pourquoi Kidilou Talky ? La créativité prend le relais !",
+            "content": "<p>🎥 <strong>Talkie-walkie avec caméra intégrée</strong><br/><br/>Les enfants peuvent communiquer <strong>par la voix et en vidéo</strong>, depuis différentes pièces de la maison ou l’extérieur.</p><p>🧠 <strong>Favorise la créativité et l’imagination</strong><br/><br/>Jeux de rôle, échanges, situations imaginées : l’enfant devient acteur de son jeu, sans contenu passif.</p><p>👧🧒 <strong>Encourage le jeu collectif</strong><br/><br/>Idéal pour frères, sœurs ou amis, même lorsqu’ils ne sont pas dans la même pièce.</p><p>📵 <strong>Alternative aux écrans traditionnels</strong><br/><br/>Sans smartphone, réseaux sociaux ou applications : l’usage est simple et encadré.</p><p>🎁 <strong>Un jouet utile, fonctionnel et éducatif</strong></p>",
             "page": ""
           }
         },
         "tab_qpeWfc": {
           "type": "tab",
           "settings": {
-            "title": "Composition Sérum Peptide Ceralyne",
-            "content": "<p><strong>Composition du sérum :</strong></p><ul><li>Acide hyaluronique</li><li>Vitamine C</li><li>Collagène</li><li>Peptides</li><li>Centella</li><li>Oligopeptides</li><li>Glycyrrhizine<br/></li></ul><p><strong>Notre sérum est :</strong></p><ul><li>Sans Paraben</li><li>Sans Sulfate</li><li>Vegan</li><li>Organique</li><li>Sans parfum</li></ul>",
+            "title": "Livraison & expédition",
+            "content": "<p>📦 <strong>Préparation des commandes</strong><br/><br/>Les commandes sont traitées sous <strong>24 à 48 heures ouvrées</strong>.</p><p>🚚 <strong>Livraison suivie</strong><br/><br/>Un lien de suivi est envoyé par email dès l’expédition du colis.</p><p>📬 <strong>Délais de livraison estimés</strong><br/><br/>En moyenne <strong>6 à 10 jours ouvrés</strong>, selon la destination.</p><p>🔒 <strong>Emballage soigné</strong><br/><br/>Chaque commande est préparée avec soin afin de garantir une réception en parfait état.</p>",
             "page": ""
           }
         },
         "tab_GUd9zE": {
           "type": "tab",
           "settings": {
-            "title": "Est-ce indolore et sans danger ?",
-            "content": "<p>Grâce à ses <strong>micro-aiguilles ultra-fines de 0,05 mm</strong>, aussi fines qu’un cheveu, l’application est <strong>quasiment imperceptible</strong> et <strong>100 % indolore</strong> ! La plupart des utilisateurs ressentent simplement un léger picotement.</p><p>Notre <strong>système de micro-infusion</strong> est <strong>approuvé par des dermatologues</strong>, <strong>facile à utiliser</strong>, <strong>stérile</strong>, et formulé <strong>sans tests sur les animaux, sans sulfates ni parabènes</strong>.</p><p>De plus, notre sérum est composé d’ingrédients <strong>haut de gamme rigoureusement sélectionnés</strong>, respectant <strong>les normes de qualité les plus strictes</strong> du secteur et garantissant <strong>zéro risque d’effets indésirables</strong>.</p><p>✔ <strong>Sans parfum</strong><br/>✔ <strong>Non testé sur les animaux</strong><br/>✔ <strong>Sans BHA</strong><br/>✔ <strong>Sans parabènes</strong></p>",
+            "title": "Garantie de satisfaction",
+            "content": "<p>✅ <strong>Satisfait ou remboursé pendant 30 jours</strong><br/><br/>Vous disposez de 30 jours pour tester le Kidilou Talky.</p><p>💼 <strong>Sans frais cachés</strong><br/><br/>Aucune mauvaise surprise : les conditions sont transparentes.</p><p>📩 <strong>Service client disponible 7j/7</strong><br/><br/>Notre équipe est joignable : <a><strong>contact@kidilou.com</strong></a></p><p>🔐 <strong>Commande sécurisée et fiable</strong></p>",
             "page": ""
           }
         },
         "tab_aQDKUA": {
           "type": "tab",
           "settings": {
-            "title": "30 jours Satisfait ou Remboursé",
-            "content": "<p>Essayer le kit anti âge ceralyne sans risque <strong>pendant 30 jours</strong>. Si vous n'êtes pas satisfait vous avez la possibilité de le retourner et vous recevrez <strong>un remboursement</strong>.</p>",
-            "page": ""
-          }
-        },
-        "tab_dkjrUh": {
-          "type": "tab",
-          "settings": {
-            "title": "Service Client 7J/7",
-            "content": "<p>Notre service client est à votre écoute 7J/7.<br/></p><p>Vous pouvez nous contacter par en utilisant l'onglet \"Contact\" de notre boutique ou par email à l'adresse contact@ceralyne.fr</p>",
+            "title": "Service client 7J/7",
+            "content": "<p>Notre service client est disponible pour vous <strong>7J/7 - 24H/24 </strong> pour vous répondre.<br/>Contactez-nous à : <strong>support@kidilou.com</strong></p><p>Délai de réponse : <strong>24</strong> à <strong>48H </strong> </p>",
             "page": ""
           }
         }
@@ -768,8 +760,7 @@
         "tab_kNhjBC",
         "tab_qpeWfc",
         "tab_GUd9zE",
-        "tab_aQDKUA",
-        "tab_dkjrUh"
+        "tab_aQDKUA"
       ],
       "settings": {
         "full_width": true,
