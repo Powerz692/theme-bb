@@ -633,10 +633,6 @@
             "show_empty": false
           }
         },
-        "separator": {
-          "type": "separator",
-          "settings": {}
-        },
         "description": {
           "type": "description",
           "settings": {
@@ -674,7 +670,6 @@
         "liquid_jnATdX",
         "image_h9L7gC",
         "rating",
-        "separator",
         "description",
         "variant-picker",
         "image_NnVtjL"
