@@ -418,10 +418,11 @@
         "item_GECyWQ": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_17.jpg",
             "column_size": "3",
             "title": "Agathe",
             "heading_tag": "h4",
-            "content": "<p><em>\"Je pensais que le laser était ma seule solution, mais grâce à la micro-infusion, ma peau est enfin uniforme et éclatante ! Et en plus, le traitement est indolore !\"</em></p>",
+            "content": "<p>\"Ces talkies-walkies sont très amusants et faciles à prendre en main. Le son est clair, l’image aussi, ce qui rend les échanges vraiment sympas. La portée est vraiment correcte, surtout en extérieur, ce qui permet de jouer sans coupure. Un jouet simple, efficace et très apprécié.\"<br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
