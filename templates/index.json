@@ -470,10 +470,11 @@
         "item_EwNkYx": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_21.jpg",
             "column_size": "3",
-            "title": "Estelle",
+            "title": "Marion",
             "heading_tag": "h4",
-            "content": "<p><em>\"Les pattes d’oie autour de mes yeux étaient mon plus grand complexe, mais en quelques semaines, elles ont pratiquement disparu. Je le recommande à toute mes familles\"</em></p>",
+            "content": "<p>\"Ces talkies-walkies vidéo sont géniaux ! Les enfants les utilisent partout dans la maison pour se parler d’une pièce à l’autre. L’image est nette, le son est bon et la batterie tient longtemps. Une super façon pour eux de communiquer et s’amuser en toute sécurité.\"<br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -482,10 +483,11 @@
         "item_yViHK3": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_22.jpg",
             "column_size": "3",
-            "title": "Tiphaine",
+            "title": "Carla",
             "heading_tag": "h4",
-            "content": "<p><em>\"Depuis que j'utilise ce produit, ma peau a été transformée. Les résultats sont visibles rapidement, et je ne peux plus m’en passer. C’est devenu un indispensable dans ma routine beauté\"</em></p>",
+            "content": "<p>\"Ces talkies-walkies vidéo sont très mignons et faciles à utiliser. Les enfants adorent se voir à l’écran et ont beaucoup aimé les stickers pour les personnaliser. Le son et l’image sont clairs, la batterie tient bien et ça fonctionne même entre étages.\"<br/><br/><br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
