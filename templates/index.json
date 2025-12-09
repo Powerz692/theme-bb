@@ -431,10 +431,11 @@
         "item_MwJML3": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_18.jpg",
             "column_size": "3",
             "title": "Mélanie",
             "heading_tag": "h4",
-            "content": "<p><em>\"Dès la première application, j’ai remarqué que les ridules autour de mes lèvres commençaient à s’estomper. Après environ un mois, mes lèvres étaient plus lisses et repulpées.\"</em></p>",
+            "content": "<p>\"Des talkies-walkies vraiment adorables. Ma fille discute avec son papa pendant de longues minutes sans se lasser. La taille est idéale pour les petites mains, et les couleurs rose et bleu sont très jolies.\"<br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
