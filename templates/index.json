@@ -402,19 +402,6 @@
             "link_style": "link"
           }
         },
-        "item_xWVhf8": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Design_sans_titre_25.jpg",
-            "column_size": "3",
-            "title": "Lina",
-            "heading_tag": "h4",
-            "content": "<h6>\"Très bonne qualité. L’image est nette quand la vidéo est activée et le son est clair. C’est très simple à utiliser et vaut largement son prix. Les enfants adorent jouer avec.\"<br/><br/></h6>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_JJLm4U": {
           "type": "item",
           "settings": {
@@ -423,6 +410,19 @@
             "title": "Marie",
             "heading_tag": "h4",
             "content": "<h6>\"Super amusant, mes neveux ont adoré ! Ça rend leurs jeux beaucoup plus créatifs et ils ne s’en lassent pas. En plus, la batterie tient vraiment bien, ils peuvent jouer longtemps sans interruption.\"<br/><br/></h6>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_xWVhf8": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_25.jpg",
+            "column_size": "3",
+            "title": "Lina",
+            "heading_tag": "h4",
+            "content": "<h6>\"Très bonne qualité. L’image est nette quand la vidéo est activée et le son est clair. C’est très simple à utiliser et vaut largement son prix. Les enfants adorent jouer avec.\"<br/><br/></h6>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -548,8 +548,8 @@
       },
       "block_order": [
         "item_EwNkYx",
-        "item_xWVhf8",
         "item_JJLm4U",
+        "item_xWVhf8",
         "item_GECyWQ",
         "item_7BdeiK",
         "item_MwJML3",
