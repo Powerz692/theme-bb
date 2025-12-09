@@ -392,10 +392,11 @@
         "item_7BdeiK": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_15.jpg",
             "column_size": "3",
-            "title": "Laura",
-            "heading_tag": "h4",
-            "content": "<p><em>\"Pour celles qui se demandent, ce n'est pas douloureux ! En seulement quatre applications, j’ai l’impression d’avoir retrouvé la peau de mes 30 ans ! Mon teint est lumineux, ma peau est plus lisse et plus ferme. Je suis ravie\"</em></p>",
+            "title": "Julie",
+            "heading_tag": "h3",
+            "content": "<p>\"J’ai offert ces talkies-walkies vidéo à mes enfants et ils ont adoré. Ça a complètement boosté leur imagination : missions secrètes, voix rigolotes, filtres… ils parlent entre le salon, la chambre et même dehors sans souci. Le mode vidéo change vraiment tout. Ils jouent des heures ensemble, et moi j’ai enfin des moments au calme.\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
