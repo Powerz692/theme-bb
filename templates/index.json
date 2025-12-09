@@ -716,6 +716,22 @@
         "text_color": ""
       }
     },
+    "custom_liquid_qCwp9A": {
+      "type": "custom-liquid",
+      "custom_css": [
+        ".section-full {padding-top: 0px; padding-bottom: 35px;}"
+      ],
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<div class=\"three-videos-container\">\n\n  <!-- Carte 1 -->\n  <div class=\"video-card\">\n    <video src=\"https://cdn.shopify.com/videos/c/o/v/d2df484cac3a4bb6a25d5309050c3370.mp4\"\n      muted autoplay loop playsinline></video>\n  </div>\n\n  <!-- Carte 2 -->\n  <div class=\"video-card\">\n    <video src=\"https://cdn.shopify.com/videos/c/o/v/753e0634bdce4c6e86d5761b23791430.mp4\"\n      muted autoplay loop playsinline></video>\n  </div>\n\n  <!-- Carte 3 -->\n  <div class=\"video-card\">\n    <video src=\"https://cdn.shopify.com/videos/c/o/v/2d3605969fad4c349e21766ddb7f4cca.mp4\"\n      muted autoplay loop playsinline></video>\n  </div>\n\n</div>\n\n<style>\n/* Container = 3 vidéos alignées */\n.three-videos-container {\n  display: flex;\n  justify-content: flex-start; /* colle bien à gauche */\n  align-items: flex-start;\n  gap: 15px; /* espace entre les vidéos */\n  padding: 0;\n  margin: 0;\n}\n\n/* Format EXACT du slider : 140px de largeur, hauteur auto */\n.video-card {\n  position: relative;\n  width: 170px;       /* identique à ton slider */\n  border-radius: 16px;\n  overflow: hidden;\n  background: #000;\n  box-shadow: 0 5px 15px rgba(0,0,0,0.15);\n}\n\n/* Vidéo non modifiée, respecte le format original */\n.video-card video {\n  width: 100%;\n  height: auto;       /* garde le format naturel */\n  display: block;\n  object-fit: cover;  /* même rendu que ton slider */\n}\n</style>",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "tabs_Waa9zt": {
       "type": "tabs",
       "blocks": {
@@ -1168,6 +1184,7 @@
     "multi_column_BKPLPt",
     "featured-product",
     "custom_liquid_ztW6na",
+    "custom_liquid_qCwp9A",
     "tabs_Waa9zt",
     "multi_column_wTJTNc",
     "rich_text_JEkECK",
