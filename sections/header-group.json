@@ -28,6 +28,13 @@
             "url": ""
           }
         },
+        "message_xM3LrR": {
+          "type": "message",
+          "settings": {
+            "text": "Offre de noël",
+            "url": ""
+          }
+        },
         "message_7d4Yry": {
           "type": "message",
           "settings": {
@@ -39,6 +46,7 @@
       "block_order": [
         "message_JcTkVj",
         "message_xBBUPG",
+        "message_xM3LrR",
         "message_7d4Yry"
       ],
       "custom_css": [],
