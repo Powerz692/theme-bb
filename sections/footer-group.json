@@ -14,20 +14,11 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "newsletter": {
-          "type": "newsletter",
-          "settings": {
-            "image_width": 150,
-            "heading_size": "h3",
-            "title": "Sign up to receive our offers and updates",
-            "content": ""
-          }
-        },
         "text": {
           "type": "text",
           "settings": {
             "title": "Nous contacter",
-            "content": "<p>Une question, un doute ou besoin d’aide ?<br/></p><p>Notre équipe <strong>Kidilou</strong> est à votre écoute et disponible <strong>7j/7 - 24h/24</strong>.</p><p>📩 <a><strong>contact@kidilou.com</strong></a></p><p></p>",
+            "content": "<p>Une question, un doute ou besoin d’aide ?<br/></p><p>Notre équipe <strong>Kidilou</strong> est à votre écoute et disponible <strong>7j/7 - 24h/24</strong>.</p><p><strong>📩 </strong><a><strong>contact@kidilou.com</strong></a></p><p></p>",
             "enable_follow_on_shop": false
           }
         },
@@ -41,7 +32,6 @@
         }
       },
       "block_order": [
-        "newsletter",
         "text",
         "links"
       ],
