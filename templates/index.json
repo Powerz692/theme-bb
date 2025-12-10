@@ -606,17 +606,6 @@
             "show_taxes_notice": false
           }
         },
-        "buy_buttons_38TF7b": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_payment_button": false,
-            "show_gift_card_recipient": true,
-            "atc_button_background": "#1a1a1a",
-            "atc_button_text_color": "#1a1a1a",
-            "payment_button_background": "#1a1a1a",
-            "payment_button_text_color": "#1a1a1a"
-          }
-        },
         "image_pRggRB": {
           "type": "image",
           "disabled": true,
@@ -671,7 +660,6 @@
         "title",
         "badges",
         "price",
-        "buy_buttons_38TF7b",
         "image_pRggRB",
         "image_h9L7gC",
         "rating",
