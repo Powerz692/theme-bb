@@ -35,7 +35,7 @@
           "type": "text",
           "settings": {
             "title": "Nous contacter",
-            "content": "<p><strong>Customer Service: </strong></p><p><a><strong>contact@purelisse.fr </strong></a><strong>Hours: Monday to Friday from 9 AM to 12 PM and 2 PM to 6 PM / Saturday and Sunday from 10 AM to 12 PM</strong></p>",
+            "content": "<p>Une question, un doute ou besoin d’aide ?<br/></p><p>Notre équipe <strong>Kidilou</strong> est à votre écoute et disponible <strong>7j/7 - 24h/24</strong>.</p><p>📩 <a><strong>contact@kidilou.com</strong></a></p><p></p>",
             "enable_follow_on_shop": false
           }
         }
