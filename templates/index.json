@@ -735,6 +735,14 @@
     "tabs_Waa9zt": {
       "type": "tabs",
       "blocks": {
+        "tab_fba97g": {
+          "type": "tab",
+          "settings": {
+            "title": "Contenu de la boîte",
+            "content": "<p>📦 <strong>Inclus avec Kidilou Talky</strong><br/><br/>2 talkies-walkies vidéo (1 rose, 1 bleu)</p><p>🎒 <strong>Confort et praticité</strong><br/><br/>2 tours de cou adaptés aux enfants</p><p>🔌 <strong>Recharge simple et rapide</strong><br/><br/>2 câbles USB inclus</p><p>🎁 <strong>Boîte de rangement incluse</strong><br/><br/>Pratique pour ranger et offrir le jouet</p>",
+            "page": ""
+          }
+        },
         "tab_kNhjBC": {
           "type": "tab",
           "settings": {
@@ -769,6 +777,7 @@
         }
       },
       "block_order": [
+        "tab_fba97g",
         "tab_kNhjBC",
         "tab_qpeWfc",
         "tab_GUd9zE",
