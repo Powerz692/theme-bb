@@ -561,7 +561,7 @@
         "item_ktnpm6"
       ],
       "custom_css": [
-        ".section-full {padding-top: 20px; padding-bottom: 5px;}"
+        ".section-full {padding-top: 20px; padding-bottom: 0px;}"
       ],
       "settings": {
         "full_width": true,
