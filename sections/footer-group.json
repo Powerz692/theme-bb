@@ -23,14 +23,6 @@
             "content": ""
           }
         },
-        "links": {
-          "type": "links",
-          "settings": {
-            "menu": "footer",
-            "show_menu_title": true,
-            "menu_title": ""
-          }
-        },
         "text": {
           "type": "text",
           "settings": {
@@ -38,12 +30,20 @@
             "content": "<p>Une question, un doute ou besoin d’aide ?<br/></p><p>Notre équipe <strong>Kidilou</strong> est à votre écoute et disponible <strong>7j/7 - 24h/24</strong>.</p><p>📩 <a><strong>contact@kidilou.com</strong></a></p><p></p>",
             "enable_follow_on_shop": false
           }
+        },
+        "links": {
+          "type": "links",
+          "settings": {
+            "menu": "footer",
+            "show_menu_title": true,
+            "menu_title": ""
+          }
         }
       },
       "block_order": [
         "newsletter",
-        "links",
-        "text"
+        "text",
+        "links"
       ],
       "settings": {
         "show_social_media": true,
