@@ -12,9 +12,11 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "vendor": {
-          "type": "vendor",
-          "settings": {}
+        "liquid_ELndYk": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<!DOCTYPE html> <html lang=\"en\"> <head> <meta charset=\"UTF-8\"> <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"> <title>Customer Rating</title> <style> body.unique-body-Qaz123 { display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0; background-color: #fff; } .unique-rating-container-Wsx456 { display: flex; align-items: center; font-size: 14px; color: #333; /* Metin rengi */ } .unique-rating-stars-Edc789 { display: flex; margin-right: 8px; } .unique-rating-stars-Edc789 svg { fill: #f4acb1; /* Sarı yıldız rengi */ width: 16px; /* Küçültülmüş yıldız boyutu */ height: 16px; /* Küçültülmüş yıldız boyutu */ transition: transform 0.3s; } .unique-rating-stars-Edc789 svg:hover { transform: scale(1.3); /* Üzerine gelince büyütme */ } .unique-rating-text-Rfv012 { font-size: 14px; color: #333; /* Metin rengi */ } </style> </head> <body class=\"unique-body-Qaz123\"> <div class=\"unique-rating-container-Wsx456\"> <div class=\"unique-rating-stars-Edc789\"> <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M12 .587l3.668 7.431 8.144 1.18-5.906 5.434 1.391 8.079L12 18.896l-7.297 3.843 1.391-8.079-5.906-5.434 8.144-1.18z\"/></svg> <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M12 .587l3.668 7.431 8.144 1.18-5.906 5.434 1.391 8.079L12 18.896l-7.297 3.843 1.391-8.079-5.906-5.434 8.144-1.18z\"/></svg> <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M12 .587l3.668 7.431 8.144 1.18-5.906 5.434 1.391 8.079L12 18.896l-7.297 3.843 1.391-8.079-5.906-5.434 8.144-1.18z\"/></svg> <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M12 .587l3.668 7.431 8.144 1.18-5.906 5.434 1.391 8.079L12 18.896l-7.297 3.843 1.391-8.079-5.906-5.434 8.144-1.18z\"/></svg> <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M12 .587l3.668 7.431 8.144 1.18-5.906 5.434 1.391 8.079L12 18.896l-7.297 3.843 1.391-8.079-5.906-5.434 8.144-1.18z\"/></svg> </div> <span class=\"unique-rating-text-Rfv012\">Noté 4.8/5 par +8 000 Clients </span> </div> </body> </html>"
+          }
         },
         "title": {
           "type": "title",
@@ -54,21 +56,6 @@
             "collapse_content": false
           }
         },
-        "variant_picker": {
-          "type": "variant_picker",
-          "settings": {
-            "hide_sold_out_variants": false,
-            "stack_blocks": true,
-            "selector_style": "block",
-            "swatch_selector_style": "swatch",
-            "variant_image_options": "",
-            "size_chart_page": ""
-          }
-        },
-        "quantity_selector": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -79,10 +66,33 @@
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
+        },
+        "liquid_zYJCAk": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  .features-wrapper {\n    display: flex;\n    justify-content: center;\n  }\n\n  .features-container {\n    display: flex;\n    flex-wrap: wrap;\n    gap: 20px;\n    max-width: 600px;\n  }\n\n  .feature-item {\n    width: calc(50% - 10px);\n    display: flex;\n    align-items: center;\n    gap: 10px;\n  }\n\n  .icon-wrapper {\n    width: 40px;\n    height: 40px;\n    background-color: #F5F7F8;\n    border-radius: 50%;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    flex-shrink: 0;\n  }\n\n  .icon-wrapper img {\n    width: 22px;\n    height: 22px;\n    display: block;\n  }\n\n  .text-wrapper { display: flex; flex-direction: column; }\n  .feature-title { font-weight: 700; color: #242424; margin: 0; font-size: 14px; }\n  .feature-subtitle { font-weight: 400; color: #424242; margin: 0; font-size: 12px; }\n\n  @media (max-width: 480px) {\n    .feature-item { width: calc(50% - 10px); }\n    .feature-title { font-size: 12px; }\n    .feature-subtitle { font-size: 10px; }\n    .icon-wrapper { width: 36px; height: 36px; }\n    .icon-wrapper img { width: 20px; height: 20px; }\n  }\n\n  /* language switch */\n  html[lang=\"fr\"] .features-en { display: none !important; }\n  html[lang=\"en\"] .features-fr { display: none !important; }\n</style>\n\n<!-- FRENCH VERSION -->\n<div class=\"features-wrapper features-fr\">\n  <div class=\"features-container\">\n\n    <div class=\"feature-item\">\n      <div class=\"icon-wrapper\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0891/4871/9429/files/NOUVEAU-SHIPPING1.svg?v=1744585896\" alt=\"\">\n      </div>\n      <div class=\"text-wrapper\">\n        <p class=\"feature-title\">Livraison gratuite</p>\n        <p class=\"feature-subtitle\">Expédition en 24h</p>\n      </div>\n    </div>\n\n    <div class=\"feature-item\">\n      <div class=\"icon-wrapper\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0891/4871/9429/files/NOUVEAU-check-shield.svg?v=1744586491\" alt=\"\">\n      </div>\n      <div class=\"text-wrapper\">\n        <p class=\"feature-title\">Paiement sécurisé</p>\n        <p class=\"feature-subtitle\">via SSL & 3D Secure</p>\n      </div>\n    </div>\n\n    <div class=\"feature-item\">\n      <div class=\"icon-wrapper\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0891/4871/9429/files/NOUVEAU-RETOUR.svg?v=1744585755\" alt=\"\">\n      </div>\n      <div class=\"text-wrapper\">\n        <p class=\"feature-title\">Satisfait ou remboursé</p>\n        <p class=\"feature-subtitle\">30 jours pour essayer</p>\n      </div>\n    </div>\n\n    <div class=\"feature-item\">\n      <div class=\"icon-wrapper\">\n        <img src=\"https://em-content.zobj.net/source/apple/391/flag-france_1f1eb-1f1f7.png\" alt=\"\">\n      </div>\n      <div class=\"text-wrapper\">\n        <p class=\"feature-title\">SAV Français</p>\n        <p class=\"feature-subtitle\">Disponible 7j/7</p>\n      </div>\n    </div>\n\n  </div>\n</div>\n\n\n<!-- ENGLISH VERSION -->\n<div class=\"features-wrapper features-en\">\n  <div class=\"features-container\">\n\n    <div class=\"feature-item\">\n      <div class=\"icon-wrapper\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0891/4871/9429/files/NOUVEAU-SHIPPING1.svg?v=1744585896\" alt=\"\">\n      </div>\n      <div class=\"text-wrapper\">\n        <p class=\"feature-title\">Free delivery</p>\n        <p class=\"feature-subtitle\">Ships in 24h</p>\n      </div>\n    </div>\n\n    <div class=\"feature-item\">\n      <div class=\"icon-wrapper\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0891/4871/9429/files/NOUVEAU-check-shield.svg?v=1744586491\" alt=\"\">\n      </div>\n      <div class=\"text-wrapper\">\n        <p class=\"feature-title\">Secure payment</p>\n        <p class=\"feature-subtitle\">SSL & 3D Secure</p>\n      </div>\n    </div>\n\n    <div class=\"feature-item\">\n      <div class=\"icon-wrapper\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0891/4871/9429/files/NOUVEAU-RETOUR.svg?v=1744585755\" alt=\"\">\n      </div>\n      <div class=\"text-wrapper\">\n        <p class=\"feature-title\">Money-back guarantee</p>\n        <p class=\"feature-subtitle\">30 days risk-free</p>\n      </div>\n    </div>\n\n    <div class=\"feature-item\">\n      <div class=\"icon-wrapper\">\n        <img src=\"https://em-content.zobj.net/source/apple/391/flag-france_1f1eb-1f1f7.png\" alt=\"\">\n      </div>\n      <div class=\"text-wrapper\">\n        <p class=\"feature-title\">French support</p>\n        <p class=\"feature-subtitle\">Available 7/7</p>\n      </div>\n    </div>\n\n  </div>\n</div>"
+          }
+        },
+        "liquid_ryreBC": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"three-videos-container\">\n\n  <!-- Carte 1 -->\n  <div class=\"video-card\">\n    <video src=\"https://cdn.shopify.com/videos/c/o/v/d2df484cac3a4bb6a25d5309050c3370.mp4\"\n      muted autoplay loop playsinline></video>\n  </div>\n\n  <!-- Carte 2 -->\n  <div class=\"video-card\">\n    <video src=\"https://cdn.shopify.com/videos/c/o/v/753e0634bdce4c6e86d5761b23791430.mp4\"\n      muted autoplay loop playsinline></video>\n  </div>\n\n  <!-- Carte 3 -->\n  <div class=\"video-card\">\n    <video src=\"https://cdn.shopify.com/videos/c/o/v/2d3605969fad4c349e21766ddb7f4cca.mp4\"\n      muted autoplay loop playsinline></video>\n  </div>\n\n</div>\n\n<style>\n/* Container = 3 vidéos alignées */\n.three-videos-container {\n  display: flex;\n  justify-content: flex-start; /* colle bien à gauche */\n  align-items: flex-start;\n  gap: 15px; /* espace entre les vidéos */\n  padding: 0;\n  margin: 0;\n}\n\n/* Format EXACT du slider : 140px de largeur, hauteur auto */\n.video-card {\n  position: relative;\n  width: 170px;       /* identique à ton slider */\n  border-radius: 16px;\n  overflow: hidden;\n  background: #000;\n  box-shadow: 0 5px 15px rgba(0,0,0,0.15);\n}\n\n/* Vidéo non modifiée, respecte le format original */\n.video-card video {\n  width: 100%;\n  height: auto;       /* garde le format naturel */\n  display: block;\n  object-fit: cover;  /* même rendu que ton slider */\n}\n</style>"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_style": "block",
+            "swatch_selector_style": "swatch",
+            "variant_image_options": "",
+            "size_chart_page": ""
+          }
         }
       },
       "block_order": [
-        "vendor",
+        "liquid_ELndYk",
         "title",
         "badges",
         "price",
@@ -90,9 +100,13 @@
         "payment_terms",
         "separator",
         "description",
-        "variant_picker",
-        "quantity_selector",
-        "buy_buttons"
+        "buy_buttons",
+        "liquid_zYJCAk",
+        "liquid_ryreBC",
+        "variant_picker"
+      ],
+      "custom_css": [
+        ".section-full {padding-top: 0px; padding-bottom: 0px;}"
       ],
       "settings": {
         "full_width": true,
@@ -100,7 +114,7 @@
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
-        "mobile_carousel_control": "floating_dots",
+        "mobile_carousel_control": "thumbnails",
         "enable_video_autoplay": false,
         "enable_video_looping": true,
         "enable_image_zoom": true,
@@ -136,22 +150,6 @@
     },
     "173998905724905a15": {
       "type": "apps",
-      "blocks": {
-        "loox_reviews_loox_dynamic_section_Xj8VH7": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-          "settings": {
-            "only_photos": false,
-            "aggregated": false,
-            "limit": 20,
-            "hide_thumbnails": false,
-            "maxwidth": 1080,
-            "is_sample": true
-          }
-        }
-      },
-      "block_order": [
-        "loox_reviews_loox_dynamic_section_Xj8VH7"
-      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
@@ -163,22 +161,6 @@
     },
     "17399958338b7cfeb3": {
       "type": "apps",
-      "blocks": {
-        "loox_reviews_loox_dynamic_section_CxqMU7": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-          "settings": {
-            "only_photos": false,
-            "aggregated": false,
-            "limit": 20,
-            "hide_thumbnails": false,
-            "maxwidth": 1080,
-            "is_sample": true
-          }
-        }
-      },
-      "block_order": [
-        "loox_reviews_loox_dynamic_section_CxqMU7"
-      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
