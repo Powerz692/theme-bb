@@ -847,6 +847,51 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "rich_text_jkUXVm": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_MbDWCB": {
+          "type": "heading",
+          "settings": {
+            "text": "Rejoignez l'aventure Kidilou !",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_MbDWCB"
+      ],
+      "custom_css": [
+        ".section-full {padding-top: 0px; padding-bottom: 0px;}"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_yrGCzF": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Design_sans_titre_14_3f3ae532-95b8-4013-b757-c0f9eb6ea664.jpg",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
     }
   },
   "order": [
@@ -869,6 +914,8 @@
     "tabs_Waa9zt",
     "rich_text_JEkECK",
     "17359565654f612dcd",
-    "custom_liquid_xVr3DH"
+    "custom_liquid_xVr3DH",
+    "rich_text_jkUXVm",
+    "image_with_text_overlay_yrGCzF"
   ]
 }
