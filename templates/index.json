@@ -697,7 +697,7 @@
     "custom_liquid_qbt9Ww": {
       "type": "custom-liquid",
       "custom_css": [
-        ".section-full {padding-top: 0px; padding-bottom: 10px;}"
+        ".section-full {padding-top: 3px; padding-bottom: 10px;}"
       ],
       "name": "Custom Liquid",
       "settings": {
