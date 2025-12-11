@@ -600,12 +600,6 @@
           "type": "badges",
           "settings": {}
         },
-        "price": {
-          "type": "price",
-          "settings": {
-            "show_taxes_notice": false
-          }
-        },
         "image_pRggRB": {
           "type": "image",
           "disabled": true,
@@ -659,7 +653,6 @@
         "liquid_UqCNKi",
         "title",
         "badges",
-        "price",
         "image_pRggRB",
         "image_h9L7gC",
         "rating",
@@ -686,6 +679,19 @@
         "text_color": "",
         "input_background": "#ffffff",
         "input_text_color": ""
+      }
+    },
+    "custom_liquid_7WVj4q": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "custom_liquid_ztW6na": {
@@ -840,6 +846,7 @@
     "trust_pilot_reviews_rhgAFF",
     "multi_column_BKPLPt",
     "featured-product",
+    "custom_liquid_7WVj4q",
     "custom_liquid_ztW6na",
     "custom_liquid_qCwp9A",
     "tabs_Waa9zt",
