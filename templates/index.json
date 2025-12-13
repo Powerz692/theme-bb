@@ -832,15 +832,15 @@
         "item_kctGnJ": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "Est-ce que ça ne va pas créer une addiction aux écrans ?",
+            "content": "<p>Justement non.<br/><br/>Contrairement aux smartphones ou tablettes, ce jouet :</p><ul><li>ne propose pas de contenus passifs<br/></li><li>n’encourage pas le scroll<br/></li><li>favorise le <strong>jeu actif et l’échange</strong><br/></li></ul><p>Les enfants jouent, parlent, inventent… puis passent naturellement à autre chose.</p>"
           }
         },
         "item_rVLjJX": {
           "type": "item",
           "settings": {
             "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "content": "<p>Le jouet est recommandé <strong>à partir de 5 ans</strong>.<br/><br/>Il a été conçu pour être <strong>simple à comprendre</strong>, avec une prise en main intuitive adaptée aux enfants.<br/><br/></p>"
           }
         },
         "item_cNBWy9": {
@@ -861,7 +861,7 @@
         "full_width": true,
         "subheading": "",
         "title": "FAQ",
-        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "content": "",
         "team_avatar_width": 160,
         "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
         "answer_time": "Average answer time: 24h",
