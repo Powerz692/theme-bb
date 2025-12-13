@@ -829,32 +829,59 @@
     "faq_n6JJb9": {
       "type": "faq",
       "blocks": {
-        "item_kctGnJ": {
+        "item_HtEniy": {
           "type": "item",
           "settings": {
-            "title": "Est-ce que ça ne va pas créer une addiction aux écrans ?",
-            "content": "<p>Justement non.<br/><br/>Contrairement aux smartphones ou tablettes, ce jouet :</p><ul><li>ne propose pas de contenus passifs<br/></li><li>n’encourage pas le scroll<br/></li><li>favorise le <strong>jeu actif et l’échange</strong><br/></li></ul><p>Les enfants jouent, parlent, inventent… puis passent naturellement à autre chose.</p>"
+            "title": "Est-ce que ça peut créer une dépendance à l’écran ?",
+            "content": "<p>Non, et c’est un point clé.</p><p>L’addiction vient :</p><ul><li>du scroll infini<br/></li><li>des récompenses automatiques<br/></li><li>des contenus sans fin<br/></li></ul><p>Ici :</p><ul><li>pas de feed<br/></li><li>pas de vidéos à enchaîner<br/></li><li>pas de récompense artificielle<br/></li></ul><p>Les enfants jouent, communiquent… puis <strong>s’arrêtent naturellement</strong> pour faire autre chose.</p>"
           }
         },
         "item_rVLjJX": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>Le jouet est recommandé <strong>à partir de 5 ans</strong>.<br/><br/>Il a été conçu pour être <strong>simple à comprendre</strong>, avec une prise en main intuitive adaptée aux enfants.<br/><br/></p>"
+            "title": "Est-ce que je peux garder un œil sur l’utilisation ?",
+            "content": "<p>Oui.<br/><br/>L’utilisation est <strong>simple et visible</strong>, sans menus cachés ni contenus inconnus.<br/><br/>Les parents gardent un <strong>contrôle naturel</strong>, sans avoir besoin d’installer quoi que ce soit.<br/><br/><br/><br/></p>"
           }
         },
         "item_cNBWy9": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Est-ce utilisable uniquement à la maison ?",
+            "content": "<p>Non.<br/><br/>Le jouet peut être utilisé :</p><ul><li>à la maison<br/></li><li>dans le jardin<br/></li><li>chez des proches<br/></li></ul><p>C’est un jeu <strong>nomade</strong>, idéal pour varier les situations et stimuler l’imagination.</p>"
+          }
+        },
+        "item_TLrqzt": {
+          "type": "item",
+          "settings": {
+            "title": "Qu’est-ce que ce jouet apporte vraiment à mon enfant ?",
+            "content": "<ul><li>la <strong>communication</strong><br/></li><li>le <strong>jeu social</strong><br/></li><li>l’<strong>imagination</strong> (jeux de rôle, missions)<br/></li><li>le <strong>jeu actif</strong>, loin des écrans passifs<br/></li></ul><p>C’est un jouet qui fait participer l’enfant, pas juste regarder.</p>"
+          }
+        },
+        "item_GdAqFJ": {
+          "type": "item",
+          "settings": {
+            "title": "Et si le jouet ne convient pas à mon enfant ?",
+            "content": "<p>Vous bénéficiez d’une <strong>garantie satisfait ou remboursé de 30 jours</strong>.<br/><br/>Vous pouvez commander <strong>sans stress</strong>.<br/><br/></p>"
+          }
+        },
+        "item_3rhyaR": {
+          "type": "item",
+          "settings": {
+            "title": "Pourquoi faire confiance à Kidilou ?",
+            "content": "<p>Kidilou ne propose pas des centaines de jouets.</p><p>Nous faisons l’inverse :</p><ul><li>nous observons les tendances<br/></li><li>nous analysons l’usage réel<br/></li><li>nous sélectionnons <strong>un seul jouet par mois</strong><br/></li></ul><p>👉 Pour que les parents puissent acheter <strong>en confiance</strong>, sans se perdre.</p>"
           }
         }
       },
       "block_order": [
-        "item_kctGnJ",
+        "item_HtEniy",
         "item_rVLjJX",
-        "item_cNBWy9"
+        "item_cNBWy9",
+        "item_TLrqzt",
+        "item_GdAqFJ",
+        "item_3rhyaR"
+      ],
+      "custom_css": [
+        ".section-full {padding-top: 0px; padding-bottom: 0px;}"
       ],
       "name": "FAQ",
       "settings": {
@@ -863,8 +890,8 @@
         "title": "FAQ",
         "content": "",
         "team_avatar_width": 160,
-        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
-        "answer_time": "Average answer time: 24h",
+        "support_hours": "",
+        "answer_time": "",
         "button_text": "",
         "button_url": "",
         "text_position": "center",
@@ -877,6 +904,27 @@
         "button_text_color": "",
         "accordion_background": "",
         "accordion_text_color": ""
+      }
+    },
+    "contact_rmnjrk": {
+      "type": "contact",
+      "name": "Contact form",
+      "settings": {
+        "full_width": true,
+        "subheading": "Contact Us",
+        "title": "Do you have any question?",
+        "content": "",
+        "text_position": "center",
+        "contact_form_size": "large",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "contact_background": "",
+        "contact_text_color": "",
+        "button_background": "",
+        "button_text_color": ""
       }
     },
     "rich_text_JEkECK": {
@@ -951,6 +999,7 @@
     "custom_liquid_qCwp9A",
     "tabs_Waa9zt",
     "faq_n6JJb9",
+    "contact_rmnjrk",
     "rich_text_JEkECK",
     "17359565654f612dcd",
     "custom_liquid_xVr3DH",
