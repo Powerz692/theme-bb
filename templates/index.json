@@ -781,7 +781,7 @@
           "type": "tab",
           "settings": {
             "title": "Livraison & expédition",
-            "content": "<p>📦 <strong>Préparation des commandes</strong><br/><br/>Les commandes sont traitées sous <strong>24 à 48 heures ouvrées</strong>.</p><p>🚚 <strong>Livraison suivie</strong><br/><br/>Un lien de suivi est envoyé par email dès l’expédition du colis.</p><p>📬 <strong>Délais de livraison estimés</strong><br/><br/>En moyenne <strong>6 à 10 jours ouvrés</strong>, selon la destination.</p><p>🔒 <strong>Emballage soigné</strong><br/><br/>Chaque commande est préparée avec soin afin de garantir une réception en parfait état.</p>",
+            "content": "<p>📦 <strong>Préparation des commandes</strong><br/><br/>Les commandes sont traitées sous <strong>24 à 48 heures ouvrées</strong>.</p><p>🚚 <strong>Livraison suivie</strong><br/><br/>Un lien de suivi est envoyé par email dès l’expédition du colis.</p><p>📬 <strong>Délais de livraison estimés</strong><br/><br/>En moyenne <strong>5 à 8 jours ouvrés</strong>, selon la destination.</p><p>🔒 <strong>Emballage soigné</strong><br/><br/>Chaque commande est préparée avec soin afin de garantir une réception en parfait état.</p>",
             "page": ""
           }
         },
