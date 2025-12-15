@@ -255,7 +255,7 @@
     "trust_pilot_reviews_rhgAFF": {
       "type": "Trust_Pilot_Reviews",
       "custom_css": [
-        ".section-full {padding-top: 0px; padding-bottom: 0px;}"
+        ".section-full {padding-top: 10px; padding-bottom: 0px;}"
       ],
       "name": "SS - Testimonial #16",
       "settings": {
