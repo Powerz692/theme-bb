@@ -17,8 +17,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "md",
-        "image": "shopify://shop_images/Moins_d_ecrans_plus_d_aventures_6.jpg",
-        "mobile_image": "shopify://shop_images/Moins_d_ecrans_plus_d_aventures_6.jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -32,7 +30,6 @@
         "logo_394Yfz": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Design_sans_titre_1.png",
             "logo_width": 300,
             "link": ""
           }
@@ -40,7 +37,6 @@
         "logo_QwmCh4": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/dcdf0d2f-551c-4f86-99dc-4a2627a471c7.png",
             "logo_width": 120,
             "link": ""
           }
@@ -48,7 +44,6 @@
         "logo_NnCYPh": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/6204ef70-f1a9-4939-9e25-1037791f187e_1.png",
             "logo_width": 300,
             "link": ""
           }
@@ -56,7 +51,6 @@
         "logo_tiEVhQ": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/5f09805f-f264-41d6-bd58-42ca390edcc5.png",
             "logo_width": 300,
             "link": ""
           }
@@ -125,8 +119,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/d8126006-2d07-482d-ab98-9f6557a8005f.png",
-        "mobile_image": "shopify://shop_images/d8126006-2d07-482d-ab98-9f6557a8005f.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -233,10 +225,6 @@
         "subheading": "",
         "title": "",
         "content": "",
-        "before_image": "shopify://shop_images/614b4050-404f-49fa-bb9b-39cd45e90c7e.png",
-        "before_image_mobile": "shopify://shop_images/614b4050-404f-49fa-bb9b-39cd45e90c7e.png",
-        "after_image": "shopify://shop_images/625324d7-3f56-4219-913a-fbc4ed7f4667.png",
-        "after_image_mobile": "shopify://shop_images/625324d7-3f56-4219-913a-fbc4ed7f4667.png",
         "expand_image": false,
         "text_position": "center",
         "before_after_text_position": "bottom",
@@ -392,7 +380,6 @@
         "item_EwNkYx": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Design_sans_titre_21.jpg",
             "column_size": "3",
             "title": "Marion",
             "heading_tag": "h4",
@@ -405,7 +392,6 @@
         "item_JJLm4U": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Design_sans_titre_16.jpg",
             "column_size": "3",
             "title": "Jade",
             "heading_tag": "h4",
@@ -418,7 +404,6 @@
         "item_xWVhf8": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Design_sans_titre_25.jpg",
             "column_size": "3",
             "title": "Lina",
             "heading_tag": "h4",
@@ -431,7 +416,6 @@
         "item_GECyWQ": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Design_sans_titre_17.jpg",
             "column_size": "3",
             "title": "Agathe",
             "heading_tag": "h4",
@@ -444,7 +428,6 @@
         "item_7BdeiK": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Design_sans_titre_15.jpg",
             "column_size": "3",
             "title": "Julie",
             "heading_tag": "h4",
@@ -457,7 +440,6 @@
         "item_MwJML3": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Design_sans_titre_18.jpg",
             "column_size": "3",
             "title": "Mélanie",
             "heading_tag": "h4",
@@ -470,7 +452,6 @@
         "item_p6MkDp": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Design_sans_titre_19.jpg",
             "column_size": "3",
             "title": "Sylvie",
             "heading_tag": "h4",
@@ -483,7 +464,6 @@
         "item_4yzaE8": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Design_sans_titre_20.jpg",
             "column_size": "3",
             "title": "Sonia",
             "heading_tag": "h4",
@@ -496,7 +476,6 @@
         "item_yViHK3": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Design_sans_titre_22.jpg",
             "column_size": "3",
             "title": "Carla",
             "heading_tag": "h4",
@@ -509,7 +488,6 @@
         "item_JUW7xR": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Design_sans_titre_27.jpg",
             "column_size": "3",
             "title": "Ambre",
             "heading_tag": "h4",
@@ -522,7 +500,6 @@
         "item_fEUndN": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Design_sans_titre_24.jpg",
             "column_size": "3",
             "title": "Barbara",
             "heading_tag": "h4",
@@ -535,7 +512,6 @@
         "item_ktnpm6": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Design_sans_titre_26.jpg",
             "column_size": "3",
             "title": "Camille",
             "heading_tag": "h4",
@@ -608,12 +584,6 @@
             "max_width": 500
           }
         },
-        "kaching_bundles_app_block_wB9MX6": {
-          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
-          "settings": {
-            "product": "{{section.settings.product}}"
-          }
-        },
         "buy_buttons_AjaGrL": {
           "type": "buy_buttons",
           "settings": {
@@ -671,7 +641,6 @@
         "title",
         "badges",
         "image_pRggRB",
-        "kaching_bundles_app_block_wB9MX6",
         "buy_buttons_AjaGrL",
         "image_h9L7gC",
         "rating",
@@ -684,7 +653,7 @@
       ],
       "settings": {
         "full_width": false,
-        "product": "kidilou-talky-talkies-walkies-video-rechargeables-pour-enfants-avec-camera",
+        "product": "guide-pdf-visage-sculpte-en-30-jours",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
